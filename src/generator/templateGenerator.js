@@ -67,24 +67,6 @@ const results = [];
 const TEST_COURSE_ID = '1234';
 const TEST_ASSIGNMENT_ID = '5678';
 
-// Get base URL from environment or use from config
-const BASE_URL = process.env.STUDENT_URL;
-
-// Helper function to construct URLs with query parameters
-function buildUrl(path) {
-  if (!BASE_URL) return path;
-  
-  const url = new URL(BASE_URL);
-  const targetUrl = new URL(path, url.origin);
-  
-  // Preserve query parameters from the base URL (important for Vercel shareable links)
-  if (url.search) {
-    targetUrl.search = url.search;
-  }
-  
-  return targetUrl.toString();
-}
-
 test.describe('Assignment ${this.rubric.assignmentNumber} Tests', () => {
 
 `;
@@ -169,7 +151,7 @@ test.describe('Assignment ${this.rubric.assignmentNumber} Tests', () => {
     let details = '';
 
     try {
-      await page.goto(buildUrl('${c.route}'));
+      await page.goto('${c.route}');
       await page.waitForLoadState('networkidle', { timeout: 10000 });
 
       const inputType = '${this.extractInputType(c.detail)}';
@@ -215,7 +197,7 @@ test.describe('Assignment ${this.rubric.assignmentNumber} Tests', () => {
     let details = '';
 
     try {
-      await page.goto(buildUrl('${c.route}'));
+      await page.goto('${c.route}');
       await page.waitForLoadState('networkidle', { timeout: 10000 });
 
       const input = page.locator('input[type="${type}"][value*="${value}" i]');
@@ -250,7 +232,7 @@ test.describe('Assignment ${this.rubric.assignmentNumber} Tests', () => {
     let details = '';
 
     try {
-      await page.goto(buildUrl('${c.route}'));
+      await page.goto('${c.route}');
       await page.waitForLoadState('networkidle', { timeout: 10000 });
 
       const select = page.locator('select');
@@ -289,7 +271,7 @@ test.describe('Assignment ${this.rubric.assignmentNumber} Tests', () => {
     let details = '';
 
     try {
-      await page.goto(buildUrl('${c.route}'));
+      await page.goto('${c.route}');
       await page.waitForLoadState('networkidle', { timeout: 10000 });
 
       const button = page.getByRole('button', { name: /${this.extractButtonText(
@@ -341,7 +323,7 @@ test.describe('Assignment ${this.rubric.assignmentNumber} Tests', () => {
     let details = '';
 
     try {
-      await page.goto(buildUrl('${c.route}'));
+      await page.goto('${c.route}');
       await page.waitForLoadState('networkidle', { timeout: 10000 });
 
       const link = page.locator('a[href*="${linkTarget}"]');
@@ -379,7 +361,7 @@ test.describe('Assignment ${this.rubric.assignmentNumber} Tests', () => {
     let details = '';
 
     try {
-      await page.goto(buildUrl('${c.route}'));
+      await page.goto('${c.route}');
       await page.waitForLoadState('networkidle', { timeout: 10000 });
 
       const element = page.locator('${this.getElementSelector(
@@ -419,7 +401,7 @@ test.describe('Assignment ${this.rubric.assignmentNumber} Tests', () => {
     let details = '';
 
     try {
-      await page.goto(buildUrl('${c.route}'));
+      await page.goto('${c.route}');
       await page.waitForLoadState('networkidle', { timeout: 10000 });
 
       const items = page.locator('[class*="course"], .course-card, [class*="grid"] > *');
@@ -516,7 +498,7 @@ test.describe('Assignment ${this.rubric.assignmentNumber} Tests', () => {
     let details = '';
 
     try {
-      await page.goto(buildUrl('${c.route}'));
+      await page.goto('${c.route}');
       await page.waitForLoadState('networkidle', { timeout: 10000 });
 
       const elements = page.locator('[class*="list"], ul, ol, .table, form, .btn');
@@ -551,7 +533,7 @@ test.describe('Assignment ${this.rubric.assignmentNumber} Tests', () => {
     let details = '';
 
     try {
-      await page.goto(buildUrl('${c.route}'));
+      await page.goto('${c.route}');
       await page.waitForLoadState('networkidle', { timeout: 10000 });
 
       const pageContent = page.locator('body');

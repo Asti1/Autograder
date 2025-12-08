@@ -3,15 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "parse": "node src/parser/excelParser.js",
     "generate": "node src/generator/testGenerator.js",
-    "test": "npx playwright test",
+    "test": "playwright test",
     "grade": "node src/runner/testRunner.js",
-    "full-grade": "npm run parse && npm run generate && npm run grade",
-    "show-report": "npx playwright show-report reports/html",
-    "view-grade": "open reports/latest.html"
+    "web-ui": "node src/web/server.js",
+    "full-grade": "npm run parse && npm run generate && npm run grade"
   },
   "keywords": [
     "grading",
@@ -23,10 +21,10 @@
   "license": "ISC",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
-    "dotenv": "^16.4.5",
+    "@playwright/test": "^1.56.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
     "xlsx": "^0.18.5"
-  },
-  "devDependencies": {
-    "@playwright/test": "^1.56.1"
   }
 }

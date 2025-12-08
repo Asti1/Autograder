@@ -1,0 +1,194 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - table [ref=e2]:
+    - rowgroup [ref=e3]:
+      - row [ref=e4]:
+        - cell "Labs Lab 1 Lab 2 Lab 3 Lab 4 Lab 5 Kambaz My GitHub" [ref=e5]:
+          - generic [ref=e6]:
+            - link "Labs" [ref=e8] [cursor=pointer]:
+              - /url: /Labs
+            - link "Lab 1" [ref=e10] [cursor=pointer]:
+              - /url: /Labs/Lab1
+            - link "Lab 2" [ref=e12] [cursor=pointer]:
+              - /url: /Labs/Lab2
+            - link "Lab 3" [ref=e14] [cursor=pointer]:
+              - /url: /Labs/Lab3
+            - link "Lab 4" [ref=e16] [cursor=pointer]:
+              - /url: /Labs/Lab4
+            - link "Lab 5" [ref=e18] [cursor=pointer]:
+              - /url: /Labs/Lab5
+            - link "Kambaz" [ref=e20] [cursor=pointer]:
+              - /url: /
+            - link "My GitHub" [ref=e22] [cursor=pointer]:
+              - /url: https://github.com/Asti1
+        - cell [ref=e23]:
+          - generic [ref=e24]:
+            - heading "Lab 5" [level=2] [ref=e25]
+            - link "Welcome" [ref=e27] [cursor=pointer]:
+              - /url: https://canvasnodeserver.onrender.com/lab5/welcome
+            - generic [ref=e28]:
+              - heading "Environment Variables" [level=3] [ref=e29]
+              - paragraph [ref=e30]: "Remote Server: https://canvasnodeserver.onrender.com"
+              - separator [ref=e31]
+            - generic [ref=e32]:
+              - heading "Path Parameters" [level=3] [ref=e33]
+              - spinbutton [ref=e34]: "34"
+              - spinbutton [ref=e35]: "23"
+              - link "Add 34 + 23" [ref=e36] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/add/34/23
+              - link "Substract 34 - 23" [ref=e37] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/subtract/34/23
+              - link "Divide 34 / 23" [ref=e38] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/divide/34/23
+              - link "Multiply 34 * 23" [ref=e39] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/multiply/34/23
+              - separator [ref=e40]
+            - generic [ref=e41]:
+              - heading "Query Parameters" [level=3] [ref=e42]
+              - spinbutton [ref=e43]: "34"
+              - spinbutton [ref=e44]: "23"
+              - link "Add 34 + 23" [ref=e45] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/calculator?operation=add&a=34&b=23
+              - link "Subtract 34 - 23" [ref=e46] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/calculator?operation=subtract&a=34&b=23
+              - link "Multiply 34 * 23" [ref=e47] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/calculator?operation=multiply&a=34&b=23
+              - link "Divide 34 / 23" [ref=e48] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/calculator?operation=divide&a=34&b=23
+              - separator [ref=e49]
+            - generic [ref=e50]:
+              - heading "Working With Objects" [level=3] [ref=e51]
+              - heading "Retrieving Objects" [level=4] [ref=e52]
+              - link "Get Assignment" [ref=e53] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/assignment
+              - separator [ref=e54]
+              - heading "Retrieving Properties" [level=4] [ref=e55]
+              - link "Get Title" [ref=e56] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/assignment/title
+              - separator [ref=e57]
+              - heading "Modifying Properties" [level=4] [ref=e58]
+              - link "Update Title" [ref=e59] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/assignment/title/NodeJS Assignment
+              - textbox [ref=e60]: NodeJS Assignment
+              - separator [ref=e61]
+              - heading "Modifying Score" [level=4] [ref=e62]
+              - link "Update Score" [ref=e63] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/assignment/score/0
+              - spinbutton [ref=e64]: "0"
+              - separator [ref=e65]
+              - heading "Modifying Completion" [level=4] [ref=e66]
+              - link "Update Completed" [ref=e67] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/assignment/completed/false
+              - checkbox [ref=e68]
+              - separator [ref=e69]
+              - heading "Retrieving Module Properties" [level=4] [ref=e70]
+              - link "Get Name" [ref=e71] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/module/name
+              - separator [ref=e72]
+              - heading "Modifying Module Properties" [level=4] [ref=e73]
+              - link "Update Name" [ref=e74] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/module/name/NodeJS Module
+              - textbox [ref=e75]: NodeJS Module
+              - separator [ref=e76]
+              - heading "Modifying Module Description" [level=4] [ref=e77]
+              - link "Update Description" [ref=e78] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/module/description/Learn the basics of NodeJS and ExpressJS
+              - textbox [ref=e79]: Learn the basics of NodeJS and ExpressJS
+              - separator [ref=e80]
+            - generic [ref=e81]:
+              - heading "Working with Arrays" [level=3] [ref=e82]
+              - heading "Retrieving Arrays" [level=4] [ref=e83]
+              - link "Get Todos" [ref=e84] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/todos
+              - separator [ref=e85]
+              - heading "Retrieving an Item from an Array by ID" [level=4] [ref=e86]
+              - link "Get Todo by ID" [ref=e87] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/todos/1
+              - textbox [ref=e88]: "1"
+              - separator [ref=e89]
+              - heading "Filtering Array Items" [level=3] [ref=e90]
+              - link "Get Completed Todos" [ref=e91] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/todos?completed=true
+              - separator [ref=e92]
+              - heading "Creating new Items in an Array" [level=3] [ref=e93]
+              - link "Create Todo" [ref=e94] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/todos/create
+              - separator [ref=e95]
+              - heading "Removing from an Array" [level=3] [ref=e96]
+              - link "Remove Todo with ID = 1" [ref=e97] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/todos/1/delete
+              - textbox [ref=e98]: "1"
+              - separator [ref=e99]
+              - heading "Updating an Item in an Array" [level=3] [ref=e100]
+              - link "Update Todo" [ref=e101] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/todos/1/title/NodeJS Assignment
+              - textbox [ref=e102]: "1"
+              - textbox [ref=e103]: NodeJS Assignment
+              - link "Update Description" [ref=e104] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/todos/1/description/Create a NodeJS server with ExpressJS
+              - textbox [ref=e105]: "1"
+              - textbox [ref=e106]: Create a NodeJS server with ExpressJS
+              - link "Update Completed" [ref=e107] [cursor=pointer]:
+                - /url: https://canvasnodeserver.onrender.com/lab5/todos/1/completed/false
+              - textbox [ref=e108]: "1"
+              - checkbox [ref=e109]
+              - separator [ref=e110]
+            - generic [ref=e111]:
+              - heading "HTTP Client" [level=3] [ref=e112]
+              - separator [ref=e113]
+              - heading "Requesting on Click" [level=4] [ref=e114]
+              - button "Fetch Welcome" [ref=e115] [cursor=pointer]
+              - text: "Response from server:"
+              - separator [ref=e116]
+              - heading "Requesting on Load" [level=4] [ref=e117]
+              - text: "Response from server: Welcome to Lab 5"
+              - separator [ref=e118]
+            - generic [ref=e119]:
+              - heading "Working with Objects Asynchronously" [level=3] [ref=e120]
+              - heading "Assignment" [level=4] [ref=e121]
+              - textbox [ref=e122]: NodeJS Assignment
+              - textbox [ref=e123]: Create a NodeJS server with ExpressJS
+              - textbox [ref=e124]: 2021-10-10
+              - generic [ref=e125]:
+                - checkbox "Completed" [ref=e126]
+                - generic [ref=e127]: Completed
+              - button "Update Title" [ref=e128] [cursor=pointer]
+              - generic [ref=e129]: "{ \"id\": 1, \"title\": \"NodeJS Assignment\", \"description\": \"Create a NodeJS server with ExpressJS\", \"due\": \"2021-10-10\", \"completed\": false, \"score\": 0 }"
+              - separator [ref=e130]
+            - generic [ref=e131]:
+              - heading "Working with Arrays Asynchronously" [level=3] [ref=e132]
+              - heading "Todos" [level=4] [ref=e133]:
+                - text: Todos
+                - img [ref=e134]
+                - img [ref=e136]
+              - generic [ref=e138]:
+                - generic [ref=e139]:
+                  - img [ref=e140]
+                  - img [ref=e142]
+                  - checkbox [ref=e144]
+                  - text: Task 1
+                  - generic [ref=e145]: Task 1
+                - generic [ref=e146]:
+                  - img [ref=e147]
+                  - img [ref=e149]
+                  - checkbox [checked] [ref=e151]
+                  - text: Task 2
+                  - generic [ref=e152]: Task 2
+                - generic [ref=e153]:
+                  - img [ref=e154]
+                  - img [ref=e156]
+                  - checkbox [ref=e158]
+                  - text: Task 3
+                  - generic [ref=e159]: Task 3
+                - generic [ref=e160]:
+                  - img [ref=e161]
+                  - img [ref=e163]
+                  - checkbox [checked] [ref=e165]
+                  - text: Task 4
+                  - generic [ref=e166]: Task 4
+              - separator [ref=e167]
+            - separator [ref=e168]
+  - alert [ref=e169]
+```

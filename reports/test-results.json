@@ -64,20 +64,20 @@
   },
   "suites": [
     {
-      "title": "assignment6.spec.js",
-      "file": "assignment6.spec.js",
+      "title": "assignment5.spec.js",
+      "file": "assignment5.spec.js",
       "column": 0,
       "line": 0,
       "specs": [],
       "suites": [
         {
-          "title": "Assignment 6 Tests",
-          "file": "assignment6.spec.js",
-          "line": 74,
+          "title": "Assignment 5 Tests",
+          "file": "assignment5.spec.js",
+          "line": 53,
           "column": 6,
           "specs": [
             {
-              "title": "Assignments - Can list assignments per course",
+              "title": "Labs - Path Parameters - Add 34 + 23",
               "ok": true,
               "tags": [],
               "tests": [
@@ -89,37 +89,21 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 59,
+                      "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 17965,
+                      "duration": 23376,
                       "errors": [],
-                      "stdout": [
-                        {
-                          "text": "\n=== ASSIGNMENT 6 GRADING RESULTS ===\n"
-                        },
-                        {
-                          "text": "[\n  {\n    \"criterion\": \"Assignments - Can list assignments per course\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Assignments listed per course (Course 1: 0, Course 2: 0).\"\n  }\n]\n"
-                        },
-                        {
-                          "text": "\nTotal Score: 3/3 (100.00%)\n"
-                        },
-                        {
-                          "text": "Passed: 1/1\n"
-                        },
-                        {
-                          "text": "Failed: 0/1\n"
-                        }
-                      ],
+                      "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-12-08T01:30:58.389Z",
+                      "startTime": "2025-12-08T02:33:49.402Z",
                       "annotations": [],
                       "attachments": [
                         {
                           "name": "trace",
                           "contentType": "application/zip",
-                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment6-Assignment-6-T-f0804-list-assignments-per-course/trace.zip"
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-3466e-Path-Parameters---Add-34-23/trace.zip"
                         }
                       ]
                     }
@@ -127,10 +111,1771 @@
                   "status": "expected"
                 }
               ],
-              "id": "e5e53bfadb5d2ca043e6-740fa2e0b2163015a108",
-              "file": "assignment6.spec.js",
-              "line": 2382,
-              "column": 3
+              "id": "8d1c83177dc4ed7e4f53-87672bae0a41c2126080",
+              "file": "assignment5.spec.js",
+              "line": 67,
+              "column": 7
+            },
+            {
+              "title": "Labs - Path Parameters - Subtract 34 - 23",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 1619,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:34:13.051Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-a1471-rameters---Subtract-34---23/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-1f1259ebb8f6618bb0ee",
+              "file": "assignment5.spec.js",
+              "line": 106,
+              "column": 7
+            },
+            {
+              "title": "Labs - Path Parameters - multiply",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 2582,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:34:14.788Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-62904--Path-Parameters---multiply/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-1ba6a9e7b300d74debbe",
+              "file": "assignment5.spec.js",
+              "line": 146,
+              "column": 7
+            },
+            {
+              "title": "Labs - Path Parameters - divide",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 2536,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:34:17.411Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-e8cf4----Path-Parameters---divide/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-99cb5f8b70285d10afa4",
+              "file": "assignment5.spec.js",
+              "line": 183,
+              "column": 7
+            },
+            {
+              "title": "Labs - Query Parameters - Add 34 + 23",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 2508,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:34:19.988Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-87d4f-uery-Parameters---Add-34-23/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-76a45742646b9aa756c3",
+              "file": "assignment5.spec.js",
+              "line": 219,
+              "column": 7
+            },
+            {
+              "title": "Labs - Query Parameters - Subtract 34 - 23",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 2460,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:34:22.537Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-61ccd-rameters---Subtract-34---23/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-03e0a67341f7f0785797",
+              "file": "assignment5.spec.js",
+              "line": 254,
+              "column": 7
+            },
+            {
+              "title": "Labs - Working with Objects - Get Assignment",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 1468,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:34:25.039Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-280e3-th-Objects---Get-Assignment/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-42e4108697d6e9ec39fd",
+              "file": "assignment5.spec.js",
+              "line": 290,
+              "column": 7
+            },
+            {
+              "title": "Labs - Working with Objects - Get Title",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 1384,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:34:26.549Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-99993-ng-with-Objects---Get-Title/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-06c99796c93a612b92f3",
+              "file": "assignment5.spec.js",
+              "line": 330,
+              "column": 7
+            },
+            {
+              "title": "Labs - Working with Objects - Update Title",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 2158,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:34:27.970Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-54b43-with-Objects---Update-Title/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-36ba3c870e77f0d19f18",
+              "file": "assignment5.spec.js",
+              "line": 363,
+              "column": 7
+            },
+            {
+              "title": "Labs - Working with Objects - Get Module",
+              "ok": false,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "parallelIndex": 0,
+                      "status": "timedOut",
+                      "duration": 30789,
+                      "error": {
+                        "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
+                        "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
+                      },
+                      "errors": [
+                        {
+                          "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
+                        }
+                      ],
+                      "stdout": [
+                        {
+                          "text": "\n=== ASSIGNMENT 5 GRADING RESULTS ===\n"
+                        },
+                        {
+                          "text": "[\n  {\n    \"criterion\": \"Labs - Path Parameters - Subtract 34 - 23\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Addition endpoint works (34 + 23 = 57)\"\n  },\n  {\n    \"criterion\": \"Labs - Path Parameters - Subtract 34 - 23\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Subtraction endpoint works (34 - 23 = 11)\"\n  },\n  {\n    \"criterion\": \"Labs - Path Parameters - multiply\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Path parameter multiplication works.\"\n  },\n  {\n    \"criterion\": \"Labs - Path Parameters - divide\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Path parameter division works.\"\n  },\n  {\n    \"criterion\": \"Labs - Query Parameters - Add 34 + 23\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Query parameter addition works (34 + 23 = 57).\"\n  },\n  {\n    \"criterion\": \"Labs - Query Parameters - Subtract 34 - 23\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Query parameter subtraction works (34 - 23 = 11).\"\n  },\n  {\n    \"criterion\": \"Labs - Working with Objects - Get Assignment\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Assignment object retrieved successfully.\"\n  },\n  {\n    \"criterion\": \"Labs - Working with Objects - Get Title\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Assignment title retrieved successfully.\"\n  },\n  {\n    \"criterion\": \"Labs - Working with Objects - Update Title\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Assignment title updated successfully.\"\n  },\n  {\n    \"criterion\": \"Labs - Working with Objects - Get Module\",\n    \"points\": {\n      \"earned\": 0,\n      \"possible\": 3\n    },\n    \"passed\": false,\n    \"details\": \"Error: locator.click: Test timeout of 30000ms exceeded.\\nCall log:\\n\\u001b[2m  - waiting for locator('#wd-retrieve-module').first()\\u001b[22m\\n\"\n  }\n]\n"
+                        },
+                        {
+                          "text": "\nTotal Score: 27/30 (90.00%)\n"
+                        },
+                        {
+                          "text": "Passed: 9/10\n"
+                        },
+                        {
+                          "text": "Failed: 1/10\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:34:30.180Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-d65c2-g-with-Objects---Get-Module/test-failed-1.png"
+                        },
+                        {
+                          "name": "video",
+                          "contentType": "video/webm",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-d65c2-g-with-Objects---Get-Module/video.webm"
+                        },
+                        {
+                          "name": "error-context",
+                          "contentType": "text/markdown",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-d65c2-g-with-Objects---Get-Module/error-context.md"
+                        },
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-d65c2-g-with-Objects---Get-Module/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "unexpected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-858934be627976b4ee57",
+              "file": "assignment5.spec.js",
+              "line": 400,
+              "column": 7
+            },
+            {
+              "title": "Labs - Working with Objects - Get Module Name",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 1,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 1574,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:35:01.522Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-72999-h-Objects---Get-Module-Name/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-7286b8165c9b4156d280",
+              "file": "assignment5.spec.js",
+              "line": 440,
+              "column": 7
+            },
+            {
+              "title": "Labs - Working with Arrays - Get Todos",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 1,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 1682,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:35:03.266Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-7cd2b-ing-with-Arrays---Get-Todos/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-3a3324d68790d5e65053",
+              "file": "assignment5.spec.js",
+              "line": 473,
+              "column": 7
+            },
+            {
+              "title": "Labs - Working with Arrays - Get Todo By Id",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 1,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 2290,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:35:04.991Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-eb57f-ith-Arrays---Get-Todo-By-Id/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-33e6c4625ff7127b7965",
+              "file": "assignment5.spec.js",
+              "line": 512,
+              "column": 7
+            },
+            {
+              "title": "Labs - Working with Arrays - Get Completed Todos",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 1,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 1503,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:35:07.344Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-674c7-rrays---Get-Completed-Todos/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-99d51d3174303465c912",
+              "file": "assignment5.spec.js",
+              "line": 552,
+              "column": 7
+            },
+            {
+              "title": "Labs - Working with Arrays - Create Todo",
+              "ok": false,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 1,
+                      "parallelIndex": 0,
+                      "status": "timedOut",
+                      "duration": 30802,
+                      "error": {
+                        "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
+                        "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
+                      },
+                      "errors": [
+                        {
+                          "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
+                        }
+                      ],
+                      "stdout": [
+                        {
+                          "text": "\n=== ASSIGNMENT 5 GRADING RESULTS ===\n"
+                        },
+                        {
+                          "text": "[\n  {\n    \"criterion\": \"Labs - Working with Objects - Get Module Name\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Module name retrieved successfully.\"\n  },\n  {\n    \"criterion\": \"Labs - Working with Arrays - Get Todos\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Todos array retrieved successfully.\"\n  },\n  {\n    \"criterion\": \"Labs - Working with Arrays - Get Todo By Id\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Todo by ID retrieved successfully.\"\n  },\n  {\n    \"criterion\": \"Labs - Working with Arrays - Get Completed Todos\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Completed todos filtered successfully.\"\n  },\n  {\n    \"criterion\": \"Labs - Working with Arrays - Create Todo\",\n    \"points\": {\n      \"earned\": 0,\n      \"possible\": 3\n    },\n    \"passed\": false,\n    \"details\": \"Error: locator.click: Test timeout of 30000ms exceeded.\\nCall log:\\n\\u001b[2m  - waiting for locator('Create Todo').first()\\u001b[22m\\n\"\n  }\n]\n"
+                        },
+                        {
+                          "text": "\nTotal Score: 12/15 (80.00%)\n"
+                        },
+                        {
+                          "text": "Passed: 4/5\n"
+                        },
+                        {
+                          "text": "Failed: 1/5\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:35:08.888Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-6e082-g-with-Arrays---Create-Todo/test-failed-1.png"
+                        },
+                        {
+                          "name": "video",
+                          "contentType": "video/webm",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-6e082-g-with-Arrays---Create-Todo/video.webm"
+                        },
+                        {
+                          "name": "error-context",
+                          "contentType": "text/markdown",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-6e082-g-with-Arrays---Create-Todo/error-context.md"
+                        },
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-6e082-g-with-Arrays---Create-Todo/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "unexpected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-202bd81324bd6da6e726",
+              "file": "assignment5.spec.js",
+              "line": 591,
+              "column": 7
+            },
+            {
+              "title": "Labs - Working with Arrays - Delete Todo with Id = 1",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 2,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 1701,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:35:40.195Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-d0a8c-ays---Delete-Todo-with-Id-1/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-934b444d3342d7ab0583",
+              "file": "assignment5.spec.js",
+              "line": 623,
+              "column": 7
+            },
+            {
+              "title": "Labs - Working with Arrays - Update Todo To NodeJS Assignment",
+              "ok": false,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 2,
+                      "parallelIndex": 0,
+                      "status": "failed",
+                      "duration": 1708,
+                      "error": {
+                        "message": "Error: Partial grade for \"Labs - Working with Arrays - Update Todo To NodeJS Assignment\": Error: Unexpected token 'I', \"\nInternal S\"... is not valid JSON",
+                        "stack": "Error: Partial grade for \"Labs - Working with Arrays - Update Todo To NodeJS Assignment\": Error: Unexpected token 'I', \"\nInternal S\"... is not valid JSON\n    at /Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js:62:13",
+                        "location": {
+                          "file": "/Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js",
+                          "column": 13,
+                          "line": 62
+                        },
+                        "snippet": "  60 |     const last = results[results.length - 1];\n  61 |     if (last && last.points && last.points.earned < last.points.possible) {\n> 62 |       throw new Error(`Partial grade for \"${last.criterion}\": ${last.details}`);\n     |             ^\n  63 |     }\n  64 |   });\n  65 |"
+                      },
+                      "errors": [
+                        {
+                          "location": {
+                            "file": "/Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js",
+                            "column": 13,
+                            "line": 62
+                          },
+                          "message": "Error: Partial grade for \"Labs - Working with Arrays - Update Todo To NodeJS Assignment\": Error: Unexpected token 'I', \"\nInternal S\"... is not valid JSON\n\n  60 |     const last = results[results.length - 1];\n  61 |     if (last && last.points && last.points.earned < last.points.possible) {\n> 62 |       throw new Error(`Partial grade for \"${last.criterion}\": ${last.details}`);\n     |             ^\n  63 |     }\n  64 |   });\n  65 |\n    at /Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js:62:13"
+                        }
+                      ],
+                      "stdout": [
+                        {
+                          "text": "\n=== ASSIGNMENT 5 GRADING RESULTS ===\n"
+                        },
+                        {
+                          "text": "[\n  {\n    \"criterion\": \"Labs - Working with Arrays - Delete Todo with Id  = 1\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Todo deletion endpoint works.\"\n  },\n  {\n    \"criterion\": \"Labs - Working with Arrays - Update Todo To NodeJS Assignment\",\n    \"points\": {\n      \"earned\": 0,\n      \"possible\": 3\n    },\n    \"passed\": false,\n    \"details\": \"Error: Unexpected token 'I', \\\"\\nInternal S\\\"... is not valid JSON\"\n  }\n]\n"
+                        },
+                        {
+                          "text": "\nTotal Score: 3/6 (50.00%)\n"
+                        },
+                        {
+                          "text": "Passed: 1/2\n"
+                        },
+                        {
+                          "text": "Failed: 1/2\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:35:42.063Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "video",
+                          "contentType": "video/webm",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-c918f-e-Todo-To-NodeJS-Assignment/video.webm"
+                        },
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-c918f-e-Todo-To-NodeJS-Assignment/test-failed-1.png"
+                        },
+                        {
+                          "name": "error-context",
+                          "contentType": "text/markdown",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-c918f-e-Todo-To-NodeJS-Assignment/error-context.md"
+                        },
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-c918f-e-Todo-To-NodeJS-Assignment/trace.zip"
+                        }
+                      ],
+                      "errorLocation": {
+                        "file": "/Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js",
+                        "column": 13,
+                        "line": 62
+                      }
+                    }
+                  ],
+                  "status": "unexpected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-2a726f4d2d74dec62dbe",
+              "file": "assignment5.spec.js",
+              "line": 676,
+              "column": 7
+            },
+            {
+              "title": "Labs - Asynch - Fetching Welcome",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 3,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 4595,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:35:44.207Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-ad899---Asynch---Fetching-Welcome/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-de5b412ed688225bcf08",
+              "file": "assignment5.spec.js",
+              "line": 724,
+              "column": 7
+            },
+            {
+              "title": "Labs - Asynch - Can edit the assignment title",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 3,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 4398,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:35:48.941Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-5d8c9-n-edit-the-assignment-title/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-b61ca6e042efc490d7d9",
+              "file": "assignment5.spec.js",
+              "line": 771,
+              "column": 7
+            },
+            {
+              "title": "Labs - POST - Post Todo button creates a new todo",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 3,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 2409,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "\u001b[33m5\u001b[39m\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:35:53.403Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-29780-o-button-creates-a-new-todo/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-dbbbea09fc3d6b7bada1",
+              "file": "assignment5.spec.js",
+              "line": 828,
+              "column": 7
+            },
+            {
+              "title": "Labs - DELETE - Delete button removes todo item",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 3,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 3532,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:35:55.849Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-84813-te-button-removes-todo-item/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-06a1e908304a18115400",
+              "file": "assignment5.spec.js",
+              "line": 869,
+              "column": 7
+            },
+            {
+              "title": "Labs - PUT - Update Todo checkbox updates the todo",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 3,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 3097,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:35:59.418Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-3bd72-o-checkbox-updates-the-todo/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-3b7575378742a7d93570",
+              "file": "assignment5.spec.js",
+              "line": 911,
+              "column": 7
+            },
+            {
+              "title": "Labs - Errors - Unable to Delete Todo with ID: 1234",
+              "ok": false,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 3,
+                      "parallelIndex": 0,
+                      "status": "failed",
+                      "duration": 2366,
+                      "error": {
+                        "message": "Error: Partial grade for \"Labs - Errors - Unable to Delete Todo with ID: 1234\": Error test button not found.",
+                        "stack": "Error: Partial grade for \"Labs - Errors - Unable to Delete Todo with ID: 1234\": Error test button not found.\n    at /Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js:62:13",
+                        "location": {
+                          "file": "/Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js",
+                          "column": 13,
+                          "line": 62
+                        },
+                        "snippet": "  60 |     const last = results[results.length - 1];\n  61 |     if (last && last.points && last.points.earned < last.points.possible) {\n> 62 |       throw new Error(`Partial grade for \"${last.criterion}\": ${last.details}`);\n     |             ^\n  63 |     }\n  64 |   });\n  65 |"
+                      },
+                      "errors": [
+                        {
+                          "location": {
+                            "file": "/Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js",
+                            "column": 13,
+                            "line": 62
+                          },
+                          "message": "Error: Partial grade for \"Labs - Errors - Unable to Delete Todo with ID: 1234\": Error test button not found.\n\n  60 |     const last = results[results.length - 1];\n  61 |     if (last && last.points && last.points.earned < last.points.possible) {\n> 62 |       throw new Error(`Partial grade for \"${last.criterion}\": ${last.details}`);\n     |             ^\n  63 |     }\n  64 |   });\n  65 |\n    at /Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js:62:13"
+                        }
+                      ],
+                      "stdout": [
+                        {
+                          "text": "\n=== ASSIGNMENT 5 GRADING RESULTS ===\n"
+                        },
+                        {
+                          "text": "[\n  {\n    \"criterion\": \"Labs - Asynch - Fetching Welcome\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Async welcome message fetched successfully.\"\n  },\n  {\n    \"criterion\": \"Labs - Asynch - Can edit the assignment title\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Assignment title can be edited.\"\n  },\n  {\n    \"criterion\": \"Labs - POST - Post Todo button creates a new todo\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"POST request creates new todo successfully.\"\n  },\n  {\n    \"criterion\": \"Labs - DELETE - Delete button removes todo item\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"DELETE request removes todo successfully. Count decreased from 5 to 4.\"\n  },\n  {\n    \"criterion\": \"Labs - PUT - Update Todo checkbox updates the todo\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"PUT request updates todo successfully. Checkbox changed from false to true.\"\n  },\n  {\n    \"criterion\": \"Labs - Errors - Unable to Delete Todo with ID: 1234\",\n    \"points\": {\n      \"earned\": 0,\n      \"possible\": 3\n    },\n    \"passed\": false,\n    \"details\": \"Error test button not found.\"\n  }\n]\n"
+                        },
+                        {
+                          "text": "\nTotal Score: 15/18 (83.33%)\n"
+                        },
+                        {
+                          "text": "Passed: 5/6\n"
+                        },
+                        {
+                          "text": "Failed: 1/6\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:36:02.552Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "video",
+                          "contentType": "video/webm",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-2a496-to-Delete-Todo-with-ID-1234/video.webm"
+                        },
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-2a496-to-Delete-Todo-with-ID-1234/test-failed-1.png"
+                        },
+                        {
+                          "name": "error-context",
+                          "contentType": "text/markdown",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-2a496-to-Delete-Todo-with-ID-1234/error-context.md"
+                        },
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-2a496-to-Delete-Todo-with-ID-1234/trace.zip"
+                        }
+                      ],
+                      "errorLocation": {
+                        "file": "/Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js",
+                        "column": 13,
+                        "line": 62
+                      }
+                    }
+                  ],
+                  "status": "unexpected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-0954a12881e8737ef48b",
+              "file": "assignment5.spec.js",
+              "line": 959,
+              "column": 7
+            },
+            {
+              "title": "Kambaz - Account - Can signin with existing account",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 4,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 8407,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:36:05.409Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-c8926-ignin-with-existing-account/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-c802f0eab7aa961b761b",
+              "file": "assignment5.spec.js",
+              "line": 1002,
+              "column": 7
+            },
+            {
+              "title": "Kambaz - Account - Can create new account",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 4,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 3536,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:36:13.957Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-b3d33-nt---Can-create-new-account/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-cbee7f4ca5194b990810",
+              "file": "assignment5.spec.js",
+              "line": 1048,
+              "column": 7
+            },
+            {
+              "title": "Kambaz - Account - Can update profile",
+              "ok": false,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 4,
+                      "parallelIndex": 0,
+                      "status": "failed",
+                      "duration": 4687,
+                      "error": {
+                        "message": "Error: Partial grade for \"Kambaz - Account - Can update profile\": Profile update form not found.",
+                        "stack": "Error: Partial grade for \"Kambaz - Account - Can update profile\": Profile update form not found.\n    at /Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js:62:13",
+                        "location": {
+                          "file": "/Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js",
+                          "column": 13,
+                          "line": 62
+                        },
+                        "snippet": "  60 |     const last = results[results.length - 1];\n  61 |     if (last && last.points && last.points.earned < last.points.possible) {\n> 62 |       throw new Error(`Partial grade for \"${last.criterion}\": ${last.details}`);\n     |             ^\n  63 |     }\n  64 |   });\n  65 |"
+                      },
+                      "errors": [
+                        {
+                          "location": {
+                            "file": "/Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js",
+                            "column": 13,
+                            "line": 62
+                          },
+                          "message": "Error: Partial grade for \"Kambaz - Account - Can update profile\": Profile update form not found.\n\n  60 |     const last = results[results.length - 1];\n  61 |     if (last && last.points && last.points.earned < last.points.possible) {\n> 62 |       throw new Error(`Partial grade for \"${last.criterion}\": ${last.details}`);\n     |             ^\n  63 |     }\n  64 |   });\n  65 |\n    at /Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js:62:13"
+                        }
+                      ],
+                      "stdout": [
+                        {
+                          "text": "\n=== ASSIGNMENT 5 GRADING RESULTS ===\n"
+                        },
+                        {
+                          "text": "[\n  {\n    \"criterion\": \"Kambaz - Account - Can signin with existing account, e.g., iron_man/stark123\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Successfully signed in with existing account.\"\n  },\n  {\n    \"criterion\": \"Kambaz - Account - Can create new account\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"New account created successfully.\"\n  },\n  {\n    \"criterion\": \"Kambaz - Account - Can update profile\",\n    \"points\": {\n      \"earned\": 0,\n      \"possible\": 3\n    },\n    \"passed\": false,\n    \"details\": \"Profile update form not found.\"\n  }\n]\n"
+                        },
+                        {
+                          "text": "\nTotal Score: 6/9 (66.67%)\n"
+                        },
+                        {
+                          "text": "Passed: 2/3\n"
+                        },
+                        {
+                          "text": "Failed: 1/3\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:36:17.536Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "video",
+                          "contentType": "video/webm",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-51ec9-ccount---Can-update-profile/video.webm"
+                        },
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-51ec9-ccount---Can-update-profile/test-failed-1.png"
+                        },
+                        {
+                          "name": "error-context",
+                          "contentType": "text/markdown",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-51ec9-ccount---Can-update-profile/error-context.md"
+                        },
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-51ec9-ccount---Can-update-profile/trace.zip"
+                        }
+                      ],
+                      "errorLocation": {
+                        "file": "/Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js",
+                        "column": 13,
+                        "line": 62
+                      }
+                    }
+                  ],
+                  "status": "unexpected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-751150ff81664e50de49",
+              "file": "assignment5.spec.js",
+              "line": 1084,
+              "column": 7
+            },
+            {
+              "title": "Can signout",
+              "ok": false,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 5,
+                      "parallelIndex": 0,
+                      "status": "timedOut",
+                      "duration": 30652,
+                      "error": {
+                        "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
+                        "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
+                      },
+                      "errors": [
+                        {
+                          "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
+                        }
+                      ],
+                      "stdout": [
+                        {
+                          "text": "\n=== ASSIGNMENT 5 GRADING RESULTS ===\n"
+                        },
+                        {
+                          "text": "[\n  {\n    \"criterion\": \"Can signout\",\n    \"points\": {\n      \"earned\": 0,\n      \"possible\": 3\n    },\n    \"passed\": false,\n    \"details\": \"Error: locator.click: Test timeout of 30000ms exceeded.\\nCall log:\\n\\u001b[2m  - waiting for locator('#wd-signout-btn')\\u001b[22m\\n\"\n  }\n]\n"
+                        },
+                        {
+                          "text": "\nTotal Score: 0/3 (0.00%)\n"
+                        },
+                        {
+                          "text": "Passed: 0/1\n"
+                        },
+                        {
+                          "text": "Failed: 1/1\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:36:22.705Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-Tests-Can-signout/test-failed-1.png"
+                        },
+                        {
+                          "name": "video",
+                          "contentType": "video/webm",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-Tests-Can-signout/video.webm"
+                        },
+                        {
+                          "name": "error-context",
+                          "contentType": "text/markdown",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-Tests-Can-signout/error-context.md"
+                        },
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-Tests-Can-signout/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "unexpected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-8c2b4fd3fe9b136813f8",
+              "file": "assignment5.spec.js",
+              "line": 1130,
+              "column": 7
+            },
+            {
+              "title": "Kambaz - Courses - Dashboard retrieves and renders courses from server",
+              "ok": false,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 6,
+                      "parallelIndex": 0,
+                      "status": "failed",
+                      "duration": 2537,
+                      "error": {
+                        "message": "Error: Partial grade for \"Kambaz - Courses - Dashboard retrieves and renders courses from server\": No courses found on dashboard.",
+                        "stack": "Error: Partial grade for \"Kambaz - Courses - Dashboard retrieves and renders courses from server\": No courses found on dashboard.\n    at /Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js:62:13",
+                        "location": {
+                          "file": "/Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js",
+                          "column": 13,
+                          "line": 62
+                        },
+                        "snippet": "  60 |     const last = results[results.length - 1];\n  61 |     if (last && last.points && last.points.earned < last.points.possible) {\n> 62 |       throw new Error(`Partial grade for \"${last.criterion}\": ${last.details}`);\n     |             ^\n  63 |     }\n  64 |   });\n  65 |"
+                      },
+                      "errors": [
+                        {
+                          "location": {
+                            "file": "/Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js",
+                            "column": 13,
+                            "line": 62
+                          },
+                          "message": "Error: Partial grade for \"Kambaz - Courses - Dashboard retrieves and renders courses from server\": No courses found on dashboard.\n\n  60 |     const last = results[results.length - 1];\n  61 |     if (last && last.points && last.points.earned < last.points.possible) {\n> 62 |       throw new Error(`Partial grade for \"${last.criterion}\": ${last.details}`);\n     |             ^\n  63 |     }\n  64 |   });\n  65 |\n    at /Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js:62:13"
+                        }
+                      ],
+                      "stdout": [
+                        {
+                          "text": "\n=== ASSIGNMENT 5 GRADING RESULTS ===\n"
+                        },
+                        {
+                          "text": "[\n  {\n    \"criterion\": \"Kambaz - Courses - Dashboard retrieves and renders courses from server\",\n    \"points\": {\n      \"earned\": 0,\n      \"possible\": 3\n    },\n    \"passed\": false,\n    \"details\": \"No courses found on dashboard.\"\n  }\n]\n"
+                        },
+                        {
+                          "text": "\nTotal Score: 0/3 (0.00%)\n"
+                        },
+                        {
+                          "text": "Passed: 0/1\n"
+                        },
+                        {
+                          "text": "Failed: 1/1\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:36:53.952Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "video",
+                          "contentType": "video/webm",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-f2b35-renders-courses-from-server/video.webm"
+                        },
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-f2b35-renders-courses-from-server/test-failed-1.png"
+                        },
+                        {
+                          "name": "error-context",
+                          "contentType": "text/markdown",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-f2b35-renders-courses-from-server/error-context.md"
+                        },
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-f2b35-renders-courses-from-server/trace.zip"
+                        }
+                      ],
+                      "errorLocation": {
+                        "file": "/Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js",
+                        "column": 13,
+                        "line": 62
+                      }
+                    }
+                  ],
+                  "status": "unexpected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-85b08932f9a98201d3de",
+              "file": "assignment5.spec.js",
+              "line": 1169,
+              "column": 7
+            },
+            {
+              "title": "Kambaz - Courses - Add button creates new course in server. Refresh to confirm",
+              "ok": false,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 7,
+                      "parallelIndex": 0,
+                      "status": "timedOut",
+                      "duration": 30635,
+                      "error": {
+                        "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
+                        "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
+                      },
+                      "errors": [
+                        {
+                          "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
+                        }
+                      ],
+                      "stdout": [
+                        {
+                          "text": "\n=== ASSIGNMENT 5 GRADING RESULTS ===\n"
+                        },
+                        {
+                          "text": "[\n  {\n    \"criterion\": \"Kambaz - Courses - Add button creates new course in server. Refresh to confirm\",\n    \"points\": {\n      \"earned\": 0,\n      \"possible\": 3\n    },\n    \"passed\": false,\n    \"details\": \"Error: locator.click: Test timeout of 30000ms exceeded.\\nCall log:\\n\\u001b[2m  - waiting for locator('button:has-text(\\\"Course\\\"), button:has-text(\\\"Add\\\")').first()\\u001b[22m\\n\"\n  }\n]\n"
+                        },
+                        {
+                          "text": "\nTotal Score: 0/3 (0.00%)\n"
+                        },
+                        {
+                          "text": "Passed: 0/1\n"
+                        },
+                        {
+                          "text": "Failed: 1/1\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:36:57.019Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-0425f-n-server-Refresh-to-confirm/test-failed-1.png"
+                        },
+                        {
+                          "name": "video",
+                          "contentType": "video/webm",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-0425f-n-server-Refresh-to-confirm/video.webm"
+                        },
+                        {
+                          "name": "error-context",
+                          "contentType": "text/markdown",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-0425f-n-server-Refresh-to-confirm/error-context.md"
+                        },
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-0425f-n-server-Refresh-to-confirm/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "unexpected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-c700f7d50bc46e62f3cb",
+              "file": "assignment5.spec.js",
+              "line": 1203,
+              "column": 7
+            },
+            {
+              "title": "Kambaz - Courses - Delete button removes course from server. Refresh to confirm",
+              "ok": false,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 8,
+                      "parallelIndex": 0,
+                      "status": "failed",
+                      "duration": 2636,
+                      "error": {
+                        "message": "Error: Partial grade for \"Kambaz - Courses - Delete button removes course from server. Refresh to confirm\": No courses to delete.",
+                        "stack": "Error: Partial grade for \"Kambaz - Courses - Delete button removes course from server. Refresh to confirm\": No courses to delete.\n    at /Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js:62:13",
+                        "location": {
+                          "file": "/Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js",
+                          "column": 13,
+                          "line": 62
+                        },
+                        "snippet": "  60 |     const last = results[results.length - 1];\n  61 |     if (last && last.points && last.points.earned < last.points.possible) {\n> 62 |       throw new Error(`Partial grade for \"${last.criterion}\": ${last.details}`);\n     |             ^\n  63 |     }\n  64 |   });\n  65 |"
+                      },
+                      "errors": [
+                        {
+                          "location": {
+                            "file": "/Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js",
+                            "column": 13,
+                            "line": 62
+                          },
+                          "message": "Error: Partial grade for \"Kambaz - Courses - Delete button removes course from server. Refresh to confirm\": No courses to delete.\n\n  60 |     const last = results[results.length - 1];\n  61 |     if (last && last.points && last.points.earned < last.points.possible) {\n> 62 |       throw new Error(`Partial grade for \"${last.criterion}\": ${last.details}`);\n     |             ^\n  63 |     }\n  64 |   });\n  65 |\n    at /Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js:62:13"
+                        }
+                      ],
+                      "stdout": [
+                        {
+                          "text": "\n=== ASSIGNMENT 5 GRADING RESULTS ===\n"
+                        },
+                        {
+                          "text": "[\n  {\n    \"criterion\": \"Kambaz - Courses - Delete button removes course from server. Refresh to confirm\",\n    \"points\": {\n      \"earned\": 0,\n      \"possible\": 3\n    },\n    \"passed\": false,\n    \"details\": \"No courses to delete.\"\n  }\n]\n"
+                        },
+                        {
+                          "text": "\nTotal Score: 0/3 (0.00%)\n"
+                        },
+                        {
+                          "text": "Passed: 0/1\n"
+                        },
+                        {
+                          "text": "Failed: 1/1\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:37:28.231Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "video",
+                          "contentType": "video/webm",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-7ccd2-m-server-Refresh-to-confirm/video.webm"
+                        },
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-7ccd2-m-server-Refresh-to-confirm/test-failed-1.png"
+                        },
+                        {
+                          "name": "error-context",
+                          "contentType": "text/markdown",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-7ccd2-m-server-Refresh-to-confirm/error-context.md"
+                        },
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-7ccd2-m-server-Refresh-to-confirm/trace.zip"
+                        }
+                      ],
+                      "errorLocation": {
+                        "file": "/Users/astitva/Documents/AutoGrader/tests/generated/assignment5.spec.js",
+                        "column": 13,
+                        "line": 62
+                      }
+                    }
+                  ],
+                  "status": "unexpected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-f0b92b2bdfc9644c57e0",
+              "file": "assignment5.spec.js",
+              "line": 1246,
+              "column": 7
+            },
+            {
+              "title": "Kambaz - Modules - Confirm that navigating to a course populates the corresponding modules",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 9,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 3093,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:37:31.397Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-39b41-s-the-corresponding-modules/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-9e8c9efb6454f7654e25",
+              "file": "assignment5.spec.js",
+              "line": 1293,
+              "column": 7
+            },
+            {
+              "title": "Kambaz - Modules - Confirm that you can create new modules for the current course",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 9,
+                      "parallelIndex": 0,
+                      "status": "interrupted",
+                      "duration": 16457,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "\n=== ASSIGNMENT 5 GRADING RESULTS ===\n"
+                        },
+                        {
+                          "text": "[\n  {\n    \"criterion\": \"Kambaz - Modules - Confirm that navigating to a course populates the corresponding modules\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Modules loaded from server (1 modules found).\"\n  },\n  {\n    \"criterion\": \"Kambaz - Modules - Confirm that you can create new modules for the current course\",\n    \"points\": {\n      \"earned\": 0,\n      \"possible\": 3\n    },\n    \"passed\": false,\n    \"details\": \"Error: locator.click: Test ended.\\nCall log:\\n\\u001b[2m  - waiting for locator('button:has-text(\\\"Module\\\")').first()\\u001b[22m\\n\"\n  }\n]\n"
+                        },
+                        {
+                          "text": "\nTotal Score: 3/6 (50.00%)\n"
+                        },
+                        {
+                          "text": "Passed: 1/2\n"
+                        },
+                        {
+                          "text": "Failed: 1/2\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T02:37:34.622Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-d7b1f-ules-for-the-current-course/test-failed-1.png"
+                        },
+                        {
+                          "name": "video",
+                          "contentType": "video/webm",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-d7b1f-ules-for-the-current-course/video.webm"
+                        },
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment5-Assignment-5-T-d7b1f-ules-for-the-current-course/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "skipped"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-190983e91dc192b5952b",
+              "file": "assignment5.spec.js",
+              "line": 1324,
+              "column": 7
+            },
+            {
+              "title": "Kambaz - Assignments - Retrieve assignments for selected course",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [],
+                  "status": "skipped"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-ba3426f03f326bd724e8",
+              "file": "assignment5.spec.js",
+              "line": 1370,
+              "column": 7
+            },
+            {
+              "title": "Labs - Work Remotely",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [],
+                  "status": "skipped"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-c642668d4535f4294e5b",
+              "file": "assignment5.spec.js",
+              "line": 1405,
+              "column": 7
+            },
+            {
+              "title": "Kambaz - Works Remotely",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [],
+                  "status": "skipped"
+                }
+              ],
+              "id": "8d1c83177dc4ed7e4f53-1af5d064f2fd684e385d",
+              "file": "assignment5.spec.js",
+              "line": 1436,
+              "column": 7
             }
           ]
         }
@@ -139,11 +1884,11 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-12-08T01:30:57.675Z",
-    "duration": 18919.094000000507,
-    "expected": 1,
-    "skipped": 0,
-    "unexpected": 0,
+    "startTime": "2025-12-08T02:33:48.732Z",
+    "duration": 242445.703,
+    "expected": 22,
+    "skipped": 4,
+    "unexpected": 9,
     "flaky": 0
   }
 }

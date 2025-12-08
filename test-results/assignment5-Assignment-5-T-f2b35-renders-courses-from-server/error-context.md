@@ -1,0 +1,56 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - alert [ref=e2]
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - link "NEU Logo" [ref=e6] [cursor=pointer]:
+        - /url: https://www.northeastern.edu/
+        - img "NEU Logo" [ref=e7]
+      - link "Account" [ref=e8] [cursor=pointer]:
+        - /url: /Account
+        - img [ref=e9]
+        - text: Account
+      - link "Dashboard" [ref=e11] [cursor=pointer]:
+        - /url: /Dashboard
+        - img [ref=e12]
+        - text: Dashboard
+      - link "Courses" [ref=e14] [cursor=pointer]:
+        - /url: /Courses/RS101/Home
+        - img [ref=e15]
+        - text: Courses
+      - link "Calendar" [ref=e17] [cursor=pointer]:
+        - /url: /Calendar
+        - img [ref=e18]
+        - text: Calendar
+      - link "Inbox" [ref=e30] [cursor=pointer]:
+        - /url: /Inbox
+        - img [ref=e31]
+        - text: Inbox
+      - link "Labs" [ref=e33] [cursor=pointer]:
+        - /url: /Labs
+        - img [ref=e34]
+        - text: Labs
+    - table [ref=e39]:
+      - rowgroup [ref=e40]:
+        - row "Signin Signup Profile Labs Sign in iron_man stark123 Sign in Sign up" [ref=e41]:
+          - cell "Signin Signup Profile Labs" [ref=e42]:
+            - generic [ref=e43]:
+              - link "Signin" [ref=e44] [cursor=pointer]:
+                - /url: Signin
+              - link "Signup" [ref=e45] [cursor=pointer]:
+                - /url: Signup
+              - link "Profile" [ref=e46] [cursor=pointer]:
+                - /url: Profile
+              - link "Labs" [ref=e47] [cursor=pointer]:
+                - /url: /Labs
+          - cell "Sign in iron_man stark123 Sign in Sign up" [ref=e48]:
+            - generic [ref=e50]:
+              - heading "Sign in" [level=1] [ref=e51]
+              - textbox "username" [ref=e52]: iron_man
+              - textbox "password" [ref=e53]: stark123
+              - button "Sign in" [active] [ref=e54] [cursor=pointer]
+              - link "Sign up" [ref=e55] [cursor=pointer]:
+                - /url: /Account/Signup
+```

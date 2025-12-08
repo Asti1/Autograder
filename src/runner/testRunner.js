@@ -46,9 +46,8 @@ export class TestRunner {
       // Generate grading report
       const report = this.generateReport(results);
 
-      // Save report (JSON) and HTML summary
+      // Save report
       this.saveReport(report);
-      this.saveReportHtml(report);
 
       // Display summary
       this.displaySummary(report);
@@ -166,25 +165,17 @@ export class TestRunner {
       if (suite.specs) {
         suite.specs.forEach((spec) => {
           const test = spec.tests[0];
-          const result = test.results[0];
-          const passed = result.status === "passed";
+          const passed = test.results[0].status === "passed";
 
           // Try to extract custom scoring from test
           const criterion = spec.title;
-
-          // Extract failure message if available for clarity
-          let details = passed ? "Test passed" : "Test failed";
-          if (!passed && Array.isArray(result.errors) && result.errors.length) {
-            const first = result.errors[0];
-            details = first.message || first.value || JSON.stringify(first);
-          }
 
           report.criteria.push({
             criterion: criterion,
             passed: passed,
             pointsEarned: passed ? 3 : 0, // Default scoring
             pointsPossible: 3,
-            details,
+            details: passed ? "Test passed" : "Test failed",
           });
 
           report.summary.totalPoints += 3;
@@ -226,122 +217,6 @@ export class TestRunner {
     fs.writeFileSync(latestPath, JSON.stringify(report, null, 2));
 
     console.log(`\n📄 Report saved to: ${filepath}`);
-  }
-
-  /**
-   * Save a readable HTML summary next to the JSON report
-   */
-  saveReportHtml(report) {
-    const reportsDir = path.join(process.cwd(), "reports");
-
-    if (!fs.existsSync(reportsDir)) {
-      fs.mkdirSync(reportsDir, { recursive: true });
-    }
-
-    const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
-    const filename = `grading-report-${timestamp}.html`;
-    const filepath = path.join(reportsDir, filename);
-
-    const html = this.renderHtml(report);
-    fs.writeFileSync(filepath, html, "utf-8");
-
-    // Also save as latest for quick access
-    const latestPath = path.join(reportsDir, "latest.html");
-    fs.writeFileSync(latestPath, html, "utf-8");
-
-    console.log(`\n🧾 HTML summary saved to: ${filepath}`);
-    console.log(`🔗 Quick link: ${latestPath}`);
-  }
-
-  /**
-   * Render a compact, readable HTML page for the grading summary
-   */
-  renderHtml(report) {
-    const { summary, criteria } = report;
-    const style = `
-      body { font-family: -apple-system, system-ui, Segoe UI, Roboto, Helvetica, Arial, sans-serif; margin: 24px; color: #222; }
-      h1 { margin: 0 0 4px; font-size: 20px; }
-      .meta { color: #555; margin-bottom: 16px; }
-      .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin-bottom: 16px; }
-      .card { border: 1px solid #ddd; border-radius: 8px; padding: 12px; background: #fff; }
-      .table { width: 100%; border-collapse: collapse; }
-      .table th, .table td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-      .table th { background: #f6f6f6; }
-      .pass { color: #0a7d29; font-weight: 600; }
-      .fail { color: #b00020; font-weight: 600; }
-      .details { color: #555; }
-      .footer { margin-top: 20px; color: #666; font-size: 12px; }
-      @media (prefers-color-scheme: dark) {
-        body { background: #0b0b0b; color: #eaeaea; }
-        .card { border-color: #333; background: #121212; }
-        .table th, .table td { border-color: #333; }
-        .table th { background: #1a1a1a; }
-        .meta, .details, .footer { color: #bbb; }
-      }
-    `;
-
-    const rows = criteria.map(c => `
-      <tr>
-        <td>${escapeHtml(c.criterion || "")}</td>
-        <td>${c.pointsEarned}/${c.pointsPossible}</td>
-        <td>${c.passed ? '<span class="pass">Passed</span>' : '<span class="fail">Failed</span>'}</td>
-        <td class="details">${escapeHtml(c.details || "")}</td>
-      </tr>
-    `).join("\n");
-
-    const percentage = typeof summary.percentage === "string" ? summary.percentage : (summary.percentage || 0).toFixed(2);
-
-    return `<!doctype html>
-    <html>
-      <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Grading Report</title>
-        <style>${style}</style>
-      </head>
-      <body>
-        <h1>Grading Report</h1>
-        <div class="meta">
-          <div><strong>Student URL:</strong> ${escapeHtml(report.studentUrl || "")}</div>
-          <div><strong>Assignment:</strong> ${escapeHtml(String(report.assignmentNumber || "All"))}</div>
-          <div><strong>Date:</strong> ${new Date(report.timestamp).toLocaleString()}</div>
-        </div>
-        <div class="cards">
-          <div class="card"><div><strong>Total Score</strong></div><div>${summary.earnedPoints}/${summary.totalPoints}</div></div>
-          <div class="card"><div><strong>Percentage</strong></div><div>${percentage}%</div></div>
-          <div class="card"><div><strong>Passed</strong></div><div>${summary.passed}/${summary.total}</div></div>
-          <div class="card"><div><strong>Failed</strong></div><div>${summary.failed}/${summary.total}</div></div>
-        </div>
-        <table class="table">
-          <thead>
-            <tr>
-              <th>Criterion</th>
-              <th>Points</th>
-              <th>Status</th>
-              <th>Details</th>
-            </tr>
-          </thead>
-          <tbody>
-            ${rows}
-          </tbody>
-        </table>
-        <div class="footer">Generated by AutoGrader</div>
-        <script>
-          // basic HTML escaping helper
-          function escapeHtml(s){return s}
-        </script>
-      </body>
-    </html>`;
-
-    // Helper for minimal escaping
-    function escapeHtml(text) {
-      return String(text)
-        .replace(/&/g, "&amp;")
-        .replace(/</g, "&lt;")
-        .replace(/>/g, "&gt;")
-        .replace(/"/g, "&quot;")
-        .replace(/'/g, "&#39;");
-    }
   }
 
   /**
