@@ -1,0 +1,446 @@
+{
+  "assignmentNumber": 4,
+  "metadata": {
+    "totalPoints": "0BestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBest",
+    "sections": [
+      "Labs",
+      "Kambaz - Dashboard",
+      "Kambaz - Courses",
+      "Kambaz - Modules",
+      "Kambaz - Assignments"
+    ]
+  },
+  "criteria": [
+    {
+      "type": "lab",
+      "category": "User Events",
+      "detail": "Passing Data when Handling Events",
+      "originalText": "Lab - User Events - Passing Data when Handling Events",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "lab",
+      "category": "User Events",
+      "detail": "Passing Functions as Attributes",
+      "originalText": "Lab - User Events - Passing Functions as Attributes",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "lab",
+      "category": "User Events",
+      "detail": "The Event Object",
+      "originalText": "Lab - User Events - The Event Object",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "lab",
+      "category": "Component State",
+      "detail": "Integer State Variables",
+      "originalText": "Lab - Component State - Integer State Variables",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "lab",
+      "category": "Component State",
+      "detail": "Boolean State Variables",
+      "originalText": "Lab - Component State - Boolean State Variables",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "lab",
+      "category": "Component State",
+      "detail": "String State Variables",
+      "originalText": "Lab - Component State - String State Variables",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "lab",
+      "category": "Component State",
+      "detail": "Date State Variables",
+      "originalText": "Lab - Component State - Date State Variables",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "lab",
+      "category": "Component State",
+      "detail": "Object State Variables",
+      "originalText": "Lab - Component State - Object State Variables",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "lab",
+      "category": "Component State",
+      "detail": "Array State Variables - addElement",
+      "originalText": "Lab - Component State - Array State Variables - addElement",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "lab",
+      "category": "Component State",
+      "detail": "Array State Variables - deleteElement",
+      "originalText": "Lab - Component State - Array State Variables - deleteElement",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "lab",
+      "category": "Component State",
+      "detail": "Sharing State Between Components",
+      "originalText": "Lab - Component State - Sharing State Between Components",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "lab",
+      "category": "Application State",
+      "detail": "Create a Hello World Redux component",
+      "originalText": "Lab - Application State - Create a Hello World Redux component",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "lab",
+      "category": "Application State",
+      "detail": "Counter Redux - Dispatching Events to Reducers",
+      "originalText": "Lab - Application State - Counter Redux - Dispatching Events to Reducers",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "lab",
+      "category": "Application State",
+      "detail": "Passing Data to Reducers",
+      "originalText": "Lab - Application State - Passing Data to Reducers",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "lab",
+      "category": "Todo List",
+      "detail": "Render all todos",
+      "originalText": "Lab - Todo List - Render all todos",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "list_generic"
+    },
+    {
+      "type": "lab",
+      "category": "Todo List",
+      "detail": "Create new Todo",
+      "originalText": "Lab - Todo List - Create new Todo",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "list_generic"
+    },
+    {
+      "type": "lab",
+      "category": "Todo List",
+      "detail": "Delete Todo",
+      "originalText": "Lab - Todo List - Delete Todo",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "list_generic"
+    },
+    {
+      "type": "lab",
+      "category": "Todo List",
+      "detail": "Select a todo",
+      "originalText": "Lab - Todo List - Select a todo",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "list_generic"
+    },
+    {
+      "type": "lab",
+      "category": "Todo List",
+      "detail": "Update a todo",
+      "originalText": "Lab - Todo List - Update a todo",
+      "route": "/Labs/Lab4",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "list_generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "Creating New Courses",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - Creating New Courses",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "Deleting a Course",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - Deleting a Course",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "Editing a Course",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - Editing a Course",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Courses",
+      "subsection": "Display selected course",
+      "detail": "",
+      "originalText": "Kambaz - Courses - Display selected course",
+      "route": "/Courses/:id/Display selected course",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Creating a Module",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Creating a Module",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Deleting a Module",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Deleting a Module",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Editing a Module",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Editing a Module",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Module Reducer",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Module Reducer",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "Creating an Assignment",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - Creating an Assignment",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "Editing an Assignment",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - Editing an Assignment",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "Deleting an Assignment",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - Deleting an Assignment",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    }
+  ]
+}

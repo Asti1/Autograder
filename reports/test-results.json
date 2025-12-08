@@ -1,0 +1,149 @@
+{
+  "config": {
+    "configFile": "/Users/astitva/Documents/AutoGrader/playwright.config.mjs",
+    "rootDir": "/Users/astitva/Documents/AutoGrader/tests/generated",
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "reporter": [
+      [
+        "list",
+        null
+      ],
+      [
+        "json",
+        {
+          "outputFile": "reports/test-results.json"
+        }
+      ],
+      [
+        "html",
+        {
+          "outputFolder": "reports/html"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "quiet": false,
+    "projects": [
+      {
+        "outputDir": "/Users/astitva/Documents/AutoGrader/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "",
+        "name": "",
+        "testDir": "/Users/astitva/Documents/AutoGrader/tests/generated",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 30000
+      }
+    ],
+    "shard": null,
+    "updateSnapshots": "missing",
+    "updateSourceMethod": "patch",
+    "version": "1.56.1",
+    "workers": 1,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "assignment6.spec.js",
+      "file": "assignment6.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [],
+      "suites": [
+        {
+          "title": "Assignment 6 Tests",
+          "file": "assignment6.spec.js",
+          "line": 74,
+          "column": 6,
+          "specs": [
+            {
+              "title": "Assignments - Can list assignments per course",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 59,
+                      "parallelIndex": 0,
+                      "status": "passed",
+                      "duration": 17965,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "\n=== ASSIGNMENT 6 GRADING RESULTS ===\n"
+                        },
+                        {
+                          "text": "[\n  {\n    \"criterion\": \"Assignments - Can list assignments per course\",\n    \"points\": {\n      \"earned\": 3,\n      \"possible\": 3\n    },\n    \"passed\": true,\n    \"details\": \"Assignments listed per course (Course 1: 0, Course 2: 0).\"\n  }\n]\n"
+                        },
+                        {
+                          "text": "\nTotal Score: 3/3 (100.00%)\n"
+                        },
+                        {
+                          "text": "Passed: 1/1\n"
+                        },
+                        {
+                          "text": "Failed: 0/1\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-12-08T01:30:58.389Z",
+                      "annotations": [],
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "/Users/astitva/Documents/AutoGrader/test-results/assignment6-Assignment-6-T-f0804-list-assignments-per-course/trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "e5e53bfadb5d2ca043e6-740fa2e0b2163015a108",
+              "file": "assignment6.spec.js",
+              "line": 2382,
+              "column": 3
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2025-12-08T01:30:57.675Z",
+    "duration": 18919.094000000507,
+    "expected": 1,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}

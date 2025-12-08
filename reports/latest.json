@@ -1,0 +1,2381 @@
+{
+  "studentUrl": "https://kambaz-next-js-git-a3-arsh08-gifs-projects.vercel.app/?_vercel_share=NbzAypeG6hdwAKbqgD60cVaLGymq5hff",
+  "timestamp": "2025-11-05T21:39:41.003Z",
+  "assignmentNumber": null,
+  "criteria": [
+    {
+      "criterion": "General - Identify assignment owner",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "General - Link to GitHub",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "General - Can navigate to Labs easily",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Heading Tags",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Paragraph Tag",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Lists - Ordered List Elements",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Lists - My favorite recipe",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Lists - Unordered List Elements",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Lists - Your favorite books",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Table Tags Q3, Q4, through Q10",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Images - Starship image",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Images - Teslabot image",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Username",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Password",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - First Name",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Last name",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Textareas",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Clicking button pops up alert",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - File upload button",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Comedy radio",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Drama radio",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - SciFi radio",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Fantasy radio",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Comedy checkbox",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Drama checkbox",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - SciFi checkbox",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Fantasy checkbox",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Select one option dropdown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Select many options",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Email",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Salary",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Rating slider",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - DOB date picker",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Anchor Tag",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Implementing Navigation in Single Page Applications",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Signin - Username field of type text",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Signin - Password field of type password",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Signin - Some default values",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Signin - Clicking Signin navigates to Profile or Dashboard",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Signin - Clicking Signup navigates to Signup Screen",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Dashboard title",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Published Courses subtitle",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - List of courses",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation Sidebar - Link to Account",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation Sidebar - Link to Dashboard",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation Sidebar - Link to Labs",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Profile - Username, first, and last name fields",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Profile - Password field",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Profile - Date of birth field",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Profile - Email input field",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Profile - Role dropdown with 4 distinct roles",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Profile - Some default values",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Profile - Clicking Signout navigates to Signin",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Signup - Username field",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Signup - Password field",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Signup - Verify Password field",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Signup - Some default values",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Signup - Clicking Signin navigates to Signin",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Signup - Clicking Signup navigates to Profile",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Navigation - Sidebar appears on Account screens",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Navigation - Navigation works correctly",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Navigation - Signin is default screen",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - The course (3+)",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Course links (3+)",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Course Titles (3+)",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation Sidebar - Link to NEU",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation Sidebar - Link to Course",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation Sidebar - Link to Calendar",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation Sidebar - Inbox link",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Courses - Navigation - Home link",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Courses - Navigation - Modules link",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Courses - Navigation - Assignments link",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Courses - Home - Screen exists",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Show Modules (2+)",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Module titles (2+)",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Show Lessons (2+)",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Can navigate by clicking link",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Assignment links shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignment Editor - Assignment Name has default value",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignment Editor - Description has default value",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignment Editor - Points field is number type",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignment Editor - Assignment Group dropdown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignment Editor - Display Grade dropdown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignment Editor - Submission Type dropdown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignment Editor - Online Entry Options checkboxes",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignment Editor - Assign to field has default",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignment Editor - Due date is type date",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignment Editor - Due date has default date",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignment Editor - Available from is type date",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignment Editor - Available from has default date",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignment Editor - Until is type date",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignment Editor - Until has default date",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - ID Selectors - Black on yellow paragraph",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Class Selectors - Blue on yellow paragraph",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Document Structure - White on red DIV",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Document Structure - Blue on yellow span",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Foreground Color - Blue on white heading",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Foreground Color - Red on white text",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Foreground Color - Green on white text",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Background Color - White on blue heading",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Background Color - Black on red paragraph",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Background Color - White on green span",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Borders - Fat red border",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Borders - Thin blue dashed border",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Padding - Fat red border with yellow background and big padding above and left",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Margins - Fat red border with yellow background and big margin above and left",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Padding - Yellow border with padding all around",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Margins - Red border with margin at bottom",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Margins - Centered with margins on both sides",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Margins - Yellow border with margins all around",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Corners - Rounded top corners",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Corners - Div with rounded corners at top left and right",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Corners - All rounded corners",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Corners - Rounded except top right",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Dimensions - Yellow DIV longer than it's taller",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Dimensions - Portrait DIV",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Dimensions - Square DIV",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Relative Position - Yellow DIV with text nudged down and right",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Relative Position - Blue DIV moved up and right",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Absolute Position - Portrait, Landscape, and Square rectangles styled as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Fixed Position - Blue Fixed position rectangle doesn't scroll with rest of page",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Z Index - Blue Landscape rectangle renders above other two",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Floating Images - Three rectangles laid out horizontally",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Floating Images - Image on the right",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Grid layout as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Flex - Columns 1, 2, 3, laid out horizontally as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - React Icons showing 6 icons",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Containers - Thin padding all around Lab 2",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Grids - Grid showing various layout: left/right half; one/two thirds; side/main content",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Responsive - Columns A, B, C, D",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Responsive - Columns stack on narrow screens",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Responsive - Breakpoints visible",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Tables - Quizzes table styled",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Lists - Favorite movies",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Link Lists - Favorite books",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Forms - Email and textarea",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Forms - Dropdown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Forms - Switches",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Forms - Sliders",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Forms - Addons",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Forms - Responsive horizontal",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Forms - Vertical in narrow screens",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Tabs",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Pills - Table of contents",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Pills - Git repository link",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Cards - Starship card",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation - Links present",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation - Northeastern logo and link",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation - Account styling",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation - Dashboard styling",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation - Other links styling",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation - Generally looks as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Courses render as grid",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Courses wrap to next line",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - All courses same width",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Margins around courses",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Course background",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - At least 3 courses",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Generally looks as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Kanbas navigation on left",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Dashboard content on right",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Content fills screen",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Course Navigation - Links present",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Course Navigation - White background",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Course Navigation - Red link text",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Course Navigation - Active link styling",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Course Navigation - Home is active",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Course Navigation - Generally looks as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Buttons present",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Grey button styling",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Red module button",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Publish dropdown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Dropdown options with icons",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Widest layout shows sidebars",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Narrowest hides sidebars",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Module titles styling",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - At least 2 modules",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Lessons styling",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - At least 2 lessons",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Generally looks as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Home - Course Status on 4th column",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Home - Modules in 3rd column",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Home - Widest shows 4 columns",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Home - Course Status hides when narrow",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Home - Narrowest hides sidebars",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Home - Generally looks as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - People - Clicking link displays screen",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - People - Renders as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - People - At least 3 users",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Buttons floated right",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Search field renders correctly",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - React Icons used",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Group and Assignment buttons styled",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Bootstrap margin and padding",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Green left border",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Assignment titles rendered",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Subtext with dates and points",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Generally looks as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Assignments link selection optional",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Breadcrumb optional",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Bootstrap form-control class",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Labels on top left",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Bootstrap grid classes",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Bootstrap spacing classes",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Calendar icons optional",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Date format optional",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Generally looks as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Accounts - Account Sidebar styled",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Accounts - Signin screen styled",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Accounts - Signup screen styled",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Accounts - Profile screen styled",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Accounts - Signin navigates to Profile or Dashboard",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Accounts - Signup navigates to Profile or Dashboard",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Accounts - Navigation works correctly",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - ID Selectors - Black on yellow paragraph",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Class Selectors - Blue on yellow paragraph",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Class Selectors - Blue on yellow heading",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Document Structure - White on red DIV",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Document Structure - Blue on yellow span",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Foreground Color - Blue on white heading",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Foreground Color - Red text",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Foreground Color - Green text",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Background Color - White on blue heading",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Background Color - Black on red paragraph",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Background Color - White on green span",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Borders - Fat red border",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Borders - Thin blue dashed border",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Padding - Yellow background with padding above and left",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Padding - Blue border with padding at bottom",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Padding - Yellow border with padding all around",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Margins - Red border with margin at bottom",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Margins - Centered with margins on both sides",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Margins - Yellow border with margins all around",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Corners - Rounded top corners",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Corners - Rounded bottom corners",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Corners - All rounded corners",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Corners - Rounded except top right",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Dimensions - Landscape DIV",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Dimensions - Portrait DIV",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Dimensions - Square DIV",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Relative Position - Yellow DIV nudged",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Relative Position - Blue DIV moved up and right",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Absolute Position - Rectangles styled",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Fixed Position - Blue rectangle doesn't scroll",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Z Index - Blue rectangle above others",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Floating Images - Three rectangles horizontal",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Floating Images - Image on the right",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Grid layout",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - Flex - Columns laid out horizontally",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - CSS - React Icons showing 6 icons",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Containers - Padding around Lab 2",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Grids - Various layouts",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Responsive - Columns A, B, C, D",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Responsive - Columns stack on narrow",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Responsive - Breakpoints visible",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Tables - Quizzes table styled",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Responsive Tables - Horizontal scrollbars",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Lists - Favorite movies",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Link Lists - Favorite books",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Forms - Email and textarea",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Forms - Dropdown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Forms - Switches",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Forms - Sliders",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Forms - Addons",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Forms - Responsive horizontal",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Forms - Vertical in narrow screens",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Tabs",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Pills - Table of contents",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Pills - Git repository link",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Labs - Bootstrap - Cards - Starship card",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation - Links present",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation - Northeastern logo and link",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation - Account styling",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation - Dashboard styling",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation - Other links styling",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation - Generally looks as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Courses render as grid",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Courses wrap to next line",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - All courses same width",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Margins around courses",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Course background",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - At least 3 courses",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Generally looks as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Kanbas navigation on left",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Dashboard content on right",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Content fills screen",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Course Navigation - Links present",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Course Navigation - White background",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Course Navigation - Red link text",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Course Navigation - Active link styling",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Course Navigation - Home is active",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Course Navigation - Generally looks as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Buttons present",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Grey button styling",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Red module button",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Publish dropdown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Dropdown options with icons",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Widest layout shows sidebars",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Narrowest hides sidebars",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Module titles styling",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - At least 2 modules",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Lessons styling",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - At least 2 lessons",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Modules - Generally looks as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Home - Course Status on 4th column",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Home - Modules in 3rd column",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Home - Widest shows 4 columns",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Home - Course Status hides when narrow",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Home - Narrowest hides sidebars",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Home - Generally looks as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - People - Clicking link displays screen",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - People - Renders as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - People - At least 3 users",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Buttons floated right",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Search field renders correctly",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - React Icons used",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Group and Assignment buttons styled",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Bootstrap margin and padding",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Green left border",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Assignment titles rendered",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Subtext with dates and points",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments - Generally looks as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Assignments link selection optional",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Breadcrumb optional",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Bootstrap form-control class",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Labels on top left",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Bootstrap grid classes",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Bootstrap spacing classes",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Calendar icons optional",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Date format optional",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Assignments Editor - Generally looks as shown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Accounts - Account Sidebar styled",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Accounts - Signin screen styled",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Accounts - Signup screen styled",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Accounts - Profile screen styled",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Accounts - Signin navigates to Profile or Dashboard",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Accounts - Signup navigates to Profile or Dashboard",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Accounts - Navigation works correctly",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    }
+  ],
+  "summary": {
+    "totalPoints": 1014,
+    "earnedPoints": 1014,
+    "percentage": "100.00",
+    "passed": 338,
+    "failed": 0,
+    "total": 338
+  }
+}

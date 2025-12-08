@@ -1,0 +1,337 @@
+{
+  "studentUrl": "https://canvas-web-dev-git-a3-astitvagoel2003-gmailcoms-projects.vercel.app/Labs",
+  "timestamp": "2025-10-27T21:06:17.555Z",
+  "assignmentNumber": null,
+  "criteria": [
+    {
+      "criterion": "General - Identify assignment owner",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "General - Link to GitHub",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "General - Can navigate to Labs easily",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Heading Tags",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Paragraph Tag",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Lists - Ordered List Elements",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Lists - My favorite recipe",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Lists - Unordered List Elements",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Lists - Your favorite books",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Table Tags Q3, Q4, through Q10",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Images - Starship image",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Images - Teslabot image",
+      "passed": false,
+      "pointsEarned": 0,
+      "pointsPossible": 3,
+      "details": "Test failed"
+    },
+    {
+      "criterion": "Lab - Forms - Username",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Password",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - First Name",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Last name",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Textareas",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Clicking button pops up alert",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - File upload button",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Comedy radio",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Drama radio",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - SciFi radio",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Fantasy radio",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Comedy checkbox",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Drama checkbox",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - SciFi checkbox",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Fantasy checkbox",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Select one option dropdown",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Select many options",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Email",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Salary",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - Rating slider",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Forms - DOB date picker",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Anchor Tag",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Lab - Implementing Navigation in Single Page Applications",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Signin - Username field of type text",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Signin - Password field of type password",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Signin - Some default values",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Signin - Clicking Signin navigates to Profile or Dashboard",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Account - Signin - Clicking Signup navigates to Signup Screen",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Dashboard title",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - Published Courses subtitle",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Dashboard - List of courses",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation Sidebar - Link to Account",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation Sidebar - Link to Dashboard",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    },
+    {
+      "criterion": "Kambaz - Navigation Sidebar - Link to Labs",
+      "passed": true,
+      "pointsEarned": 3,
+      "pointsPossible": 3,
+      "details": "Test passed"
+    }
+  ],
+  "summary": {
+    "totalPoints": 138,
+    "earnedPoints": 135,
+    "percentage": "97.83",
+    "passed": 45,
+    "failed": 1,
+    "total": 46
+  }
+}

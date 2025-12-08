@@ -1,0 +1,635 @@
+{
+  "assignmentNumber": 6,
+  "metadata": {
+    "totalPoints": "0BestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBest",
+    "sections": [
+      "General"
+    ]
+  },
+  "criteria": [
+    {
+      "type": "general",
+      "detail": "Users - Signup still works with database (confirm by login as new user)",
+      "originalText": "Users - Signup still works with database (confirm by login as new user)",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Users - Update still works with database (confirm by logout/login)",
+      "originalText": "Users - Update still works with database (confirm by logout/login)",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Users - Reloading browser maintains login",
+      "originalText": "Users - Reloading browser maintains login",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Users - Clicking Users navigates to new Users screen",
+      "originalText": "Users - Clicking Users navigates to new Users screen",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Users - Users screen displays all users in database",
+      "originalText": "Users - Users screen displays all users in database",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Users - Can filter users by role",
+      "originalText": "Users - Can filter users by role",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Users - Can filter users by name",
+      "originalText": "Users - Can filter users by name",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Users - Clicking user's name displays selected user in PeopleDetails",
+      "originalText": "Users - Clicking user's name displays selected user in PeopleDetails",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Users - Clicking Delete removes user from UI immediately",
+      "originalText": "Users - Clicking Delete removes user from UI immediately",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Users - Clicking Delete removes user from Database (reload to confirm)",
+      "originalText": "Users - Clicking Delete removes user from Database (reload to confirm)",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Users - Editing user's name updates in UI immediately",
+      "originalText": "Users - Editing user's name updates in UI immediately",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Users - Editing user's name updates in Database (reload to confirm)",
+      "originalText": "Users - Editing user's name updates in Database (reload to confirm)",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Users - Clicking +People adds a new user (reload to confirm)",
+      "originalText": "Users - Clicking +People adds a new user (reload to confirm)",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Users - Can edit new user (reload to confirm)",
+      "originalText": "Users - Can edit new user (reload to confirm)",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Courses - Confirm you can retrieve all courses, clicking on Enroll button",
+      "originalText": "Courses - Confirm you can retrieve all courses, clicking on Enroll button",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Courses - Confirm you can insert new courses, UI updates immediately",
+      "originalText": "Courses - Confirm you can insert new courses, UI updates immediately",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Courses - Confirm you can insert new courses into database, reload to confirm new course",
+      "originalText": "Courses - Confirm you can insert new courses into database, reload to confirm new course",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Courses - Confirm you can remove a new course, UI updates immediately",
+      "originalText": "Courses - Confirm you can remove a new course, UI updates immediately",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Courses - Confirm you can remove a new course from database. Reload to confirm",
+      "originalText": "Courses - Confirm you can remove a new course from database. Reload to confirm",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Courses - Confirm you can update a course. UI updates immediately",
+      "originalText": "Courses - Confirm you can update a course. UI updates immediately",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Courses - Confirm you can update a course in database. Reload to confirm",
+      "originalText": "Courses - Confirm you can update a course in database. Reload to confirm",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Modules - Navigate to course and create new Module. UI updates immediately",
+      "originalText": "Modules - Navigate to course and create new Module. UI updates immediately",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Modules - Confirm new modules is in database by reload browser",
+      "originalText": "Modules - Confirm new modules is in database by reload browser",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Modules - Create different modules for different courses",
+      "originalText": "Modules - Create different modules for different courses",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Modules - Navigate to different courses and confirm different modules for course",
+      "originalText": "Modules - Navigate to different courses and confirm different modules for course",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Modules - Delete module and UI updates immediately",
+      "originalText": "Modules - Delete module and UI updates immediately",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Modules - Confirm deleted from database by refreshing browser",
+      "originalText": "Modules - Confirm deleted from database by refreshing browser",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Modules - Update module name and UI updates immediately",
+      "originalText": "Modules - Update module name and UI updates immediately",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Modules - Confirm update in database by refreshing browser",
+      "originalText": "Modules - Confirm update in database by refreshing browser",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Enrollments - Confirm clicking All Courses button at top right shows all courses",
+      "originalText": "Enrollments - Confirm clicking All Courses button at top right shows all courses",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Enrollments - Courses not enrolled show Enroll button",
+      "originalText": "Enrollments - Courses not enrolled show Enroll button",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Enrollments - Clicking Enroll toggles to Unenroll",
+      "originalText": "Enrollments - Clicking Enroll toggles to Unenroll",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Enrollments - Clicking My Courses button only shows enrolled courses",
+      "originalText": "Enrollments - Clicking My Courses button only shows enrolled courses",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Enrollments - Clicking My Courses courses don't show Enroll/Unenroll button",
+      "originalText": "Enrollments - Clicking My Courses courses don't show Enroll/Unenroll button",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Enrollments - Click All Coures, Courses already enrolled in show Unenroll button",
+      "originalText": "Enrollments - Click All Coures, Courses already enrolled in show Unenroll button",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Enrollments - Clicking Unenroll toggles to Enroll",
+      "originalText": "Enrollments - Clicking Unenroll toggles to Enroll",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Enrollments - Confirm Enroll/Unenroll actually work",
+      "originalText": "Enrollments - Confirm Enroll/Unenroll actually work",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Enrollments - Refresh to confirm",
+      "originalText": "Enrollments - Refresh to confirm",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Enrollments - Logout/login to confirm",
+      "originalText": "Enrollments - Logout/login to confirm",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Enrollments - Login as faculty, create new course, appears immediately in UI",
+      "originalText": "Enrollments - Login as faculty, create new course, appears immediately in UI",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Enrollments - Refresh screen, new course should show as enrolled",
+      "originalText": "Enrollments - Refresh screen, new course should show as enrolled",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Enrollments - Enroll different users into different courses",
+      "originalText": "Enrollments - Enroll different users into different courses",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Enrollments - Navigate to Course/People, table lists all users enrolled in course",
+      "originalText": "Enrollments - Navigate to Course/People, table lists all users enrolled in course",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Assignments - Can create new assignments",
+      "originalText": "Assignments - Can create new assignments",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Assignments - Can edit assignment",
+      "originalText": "Assignments - Can edit assignment",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Assignments - Can delete assignment",
+      "originalText": "Assignments - Can delete assignment",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Assignments - Can list assignments per course",
+      "originalText": "Assignments - Can list assignments per course",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Works deployed on Netlify integrated with Render and Mongo Atlas",
+      "originalText": "Works deployed on Netlify integrated with Render and Mongo Atlas",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    }
+  ]
+}

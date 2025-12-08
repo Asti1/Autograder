@@ -1,0 +1,1768 @@
+{
+  "assignmentNumber": 2,
+  "metadata": {
+    "totalPoints": "0BestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBest",
+    "sections": [
+      "General",
+      "Kambaz - Navigation",
+      "Kambaz - Dashboard",
+      "Kambaz - Course Navigation",
+      "Kambaz - Modules",
+      "Kambaz - Home",
+      "Kambaz - People",
+      "Kambaz - Assignments",
+      "Kambaz - Assignments Editor",
+      "Kambaz - Accounts"
+    ]
+  },
+  "criteria": [
+    {
+      "type": "general",
+      "detail": "Labs - CSS - ID Selectors - Black on yellow paragraph",
+      "originalText": "Labs - CSS - ID Selectors - Black on yellow paragraph",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Class - Selectors - Blue on yellow paragraph",
+      "originalText": "Labs - CSS - Class - Selectors - Blue on yellow paragraph",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Class - Selectors - Blue on yellow heading",
+      "originalText": "Labs - CSS - Class - Selectors - Blue on yellow heading",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Document Structure - White on red DIV",
+      "originalText": "Labs - CSS - Document Structure - White on red DIV",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Document Structure - Blue on yellow small span within the DIV",
+      "originalText": "Labs - CSS - Document Structure - Blue on yellow small span within the DIV",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Foreground Color - Blue on white heading",
+      "originalText": "Labs - CSS - Foreground Color - Blue on white heading",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Foreground Color - Red on white text",
+      "originalText": "Labs - CSS - Foreground Color - Red on white text",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Foreground Color - Green on white text",
+      "originalText": "Labs - CSS - Foreground Color - Green on white text",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Background Color - White on blue heading",
+      "originalText": "Labs - CSS - Background Color - White on blue heading",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Background Color - Black on red paragraph",
+      "originalText": "Labs - CSS - Background Color - Black on red paragraph",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Background Color - White on green span",
+      "originalText": "Labs - CSS - Background Color - White on green span",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Borders - Fat red border",
+      "originalText": "Labs - CSS - Borders - Fat red border",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Borders - Thin blue dashed border",
+      "originalText": "Labs - CSS - Borders - Thin blue dashed border",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Margins - Fat red border with yellow background and big padding above and left",
+      "originalText": "Labs - CSS - Margins - Fat red border with yellow background and big padding above and left",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Margins - Fat blue border with yellow background and big padding at bottom",
+      "originalText": "Labs - CSS - Margins - Fat blue border with yellow background and big padding at bottom",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Margins - Fat yellow border with blue background and big padding all around",
+      "originalText": "Labs - CSS - Margins - Fat yellow border with blue background and big padding all around",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Margins - Fat red border with yellow background and margin at bottom",
+      "originalText": "Labs - CSS - Margins - Fat red border with yellow background and margin at bottom",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Margins - Fat blue border with yellow background and centered because margins on both sides",
+      "originalText": "Labs - CSS - Margins - Fat blue border with yellow background and centered because margins on both sides",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Margins - Fat yellow border with blue background and big margins all around",
+      "originalText": "Labs - CSS - Margins - Fat yellow border with blue background and big margins all around",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Corners - Div with rounded corners at top left and right",
+      "originalText": "Labs - CSS - Corners - Div with rounded corners at top left and right",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Corners - Div with rounded corners at bottom left and right",
+      "originalText": "Labs - CSS - Corners - Div with rounded corners at bottom left and right",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Corners - Div with all rounded corners",
+      "originalText": "Labs - CSS - Corners - Div with all rounded corners",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Corners - Div with rounded corners all around except top right",
+      "originalText": "Labs - CSS - Corners - Div with rounded corners all around except top right",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Dimensions - Yellow DIV longer than it's taller",
+      "originalText": "Labs - CSS - Dimensions - Yellow DIV longer than it's taller",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Dimensions - Blue DIV taller than it's longer",
+      "originalText": "Labs - CSS - Dimensions - Blue DIV taller than it's longer",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Dimensions - Red DIV height same as width",
+      "originalText": "Labs - CSS - Dimensions - Red DIV height same as width",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Relative Position - Yellow DIV with text nudged down and right",
+      "originalText": "Labs - CSS - Relative Position - Yellow DIV with text nudged down and right",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Relative Position - Blue DIV moved up and right a bit",
+      "originalText": "Labs - CSS - Relative Position - Blue DIV moved up and right a bit",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Absolute Position - Portrait, Landscape, and Square rectangles styled as shown",
+      "originalText": "Labs - CSS - Absolute Position - Portrait, Landscape, and Square rectangles styled as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Fixed Position - Blue Fixed position rectangle doesn't scroll with rest of page",
+      "originalText": "Labs - CSS - Fixed Position - Blue Fixed position rectangle doesn't scroll with rest of page",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Z Index - Blue Landscape rectangle renders above other two",
+      "originalText": "Labs - CSS - Z Index - Blue Landscape rectangle renders above other two",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Floating Images - Three rectangles laid out horizontally",
+      "originalText": "Labs - CSS - Floating Images - Three rectangles laid out horizontally",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Floating Images - Image on the right",
+      "originalText": "Labs - CSS - Floating Images - Image on the right",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS  - Grid layout as shown",
+      "originalText": "Labs - CSS  - Grid layout as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - Flex - Columns 1, 2, 3, laid out horizontally as shown",
+      "originalText": "Labs - CSS - Flex - Columns 1, 2, 3, laid out horizontally as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - CSS - React Icons Sample showing any 6 icons",
+      "originalText": "Labs - CSS - React Icons Sample showing any 6 icons",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Containers - Thin padding all around Lab 2",
+      "originalText": "Labs - Bootstrap - Containers - Thin padding all around Lab 2",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Grids - Grid showing various layout: left/right half; one/two thirds; side/main content",
+      "originalText": "Labs - Bootstrap - Grids - Grid showing various layout: left/right half; one/two thirds; side/main content",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Responsive - Columns A, B, C, D laid out horizontally or vertically based on screen size",
+      "originalText": "Labs - Bootstrap - Responsive - Columns A, B, C, D laid out horizontally or vertically based on screen size",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Responsive - Columns 1, 2, through 12 laid out horizontally or vertically based on screen size",
+      "originalText": "Labs - Bootstrap - Responsive - Columns 1, 2, through 12 laid out horizontally or vertically based on screen size",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Responsive - Responsive breakpoints visible in black box on top-left of the screen",
+      "originalText": "Labs - Bootstrap - Responsive - Responsive breakpoints visible in black box on top-left of the screen",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Tables - Quizzes table styled as shown",
+      "originalText": "Labs - Bootstrap - Tables - Quizzes table styled as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Responsive Tables - Table with long columns shows horizontal scrollbars when narrow window",
+      "originalText": "Labs - Bootstrap - Responsive Tables - Table with long columns shows horizontal scrollbars when narrow window",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Lists - Favorite list of movies styled as shown",
+      "originalText": "Labs - Bootstrap - Lists - Favorite list of movies styled as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Link Lists - Favorite list of links to books styled as shown",
+      "originalText": "Labs - Bootstrap - Link Lists - Favorite list of links to books styled as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Forms - Email and text area form styled as shown",
+      "originalText": "Labs - Bootstrap - Forms - Email and text area form styled as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Forms - Dropdown styled as shown",
+      "originalText": "Labs - Bootstrap - Forms - Dropdown styled as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Forms - Switches styled as shown",
+      "originalText": "Labs - Bootstrap - Forms - Switches styled as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Forms - Sliders styled as shown",
+      "originalText": "Labs - Bootstrap - Forms - Sliders styled as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Forms - Addons styled as shown",
+      "originalText": "Labs - Bootstrap - Forms - Addons styled as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Forms - Responsive form horizontal in wide screens",
+      "originalText": "Labs - Bootstrap - Forms - Responsive form horizontal in wide screens",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Forms - Vertical in narrow screens",
+      "originalText": "Labs - Bootstrap - Forms - Vertical in narrow screens",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Tabs - Tabs styled as shown",
+      "originalText": "Labs - Bootstrap - Tabs - Tabs styled as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Pills - Table of content to navigate to Lab 1, 2, Kanbas",
+      "originalText": "Labs - Bootstrap - Pills - Table of content to navigate to Lab 1, 2, Kanbas",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Pills - Link to navigate to git repository",
+      "originalText": "Labs - Bootstrap - Pills - Link to navigate to git repository",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Bootstrap - Cards - Stacking Starship card styled as shown",
+      "originalText": "Labs - Bootstrap - Cards - Stacking Starship card styled as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "kambaz",
+      "section": "Navigation",
+      "subsection": "Links: Northeaster, Account, Dashboard, Courses, Calendar, Inbox, Labs",
+      "detail": "",
+      "originalText": "Kambaz - Navigation - Links: Northeaster, Account, Dashboard, Courses, Calendar, Inbox, Labs",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Navigation",
+      "subsection": "Northeastern: has logo, clicking navigates to northeastern.edu",
+      "detail": "",
+      "originalText": "Kambaz - Navigation - Northeastern: has logo, clicking navigates to northeastern.edu",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Navigation",
+      "subsection": "Account: black background, white text and icon",
+      "detail": "",
+      "originalText": "Kambaz - Navigation - Account: black background, white text and icon",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Navigation",
+      "subsection": "Dashboard: white background red text and icon",
+      "detail": "",
+      "originalText": "Kambaz - Navigation - Dashboard: white background red text and icon",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Navigation",
+      "subsection": "All others: black background, white text, red icon",
+      "detail": "",
+      "originalText": "Kambaz - Navigation - All others: black background, white text, red icon",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Navigation",
+      "subsection": "Generally looks as shown",
+      "detail": "",
+      "originalText": "Kambaz - Navigation - Generally looks as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "Courses render as a grid",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - Courses render as a grid",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "As window narrows, courses wrap to next line",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - As window narrows, courses wrap to next line",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "All courses same width",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - All courses same width",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "Margins around courses",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - Margins around courses",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "Solid or image background in card",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - Solid or image background in card",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "At least 3 courses",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - At least 3 courses",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "Generally looks as shown",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - Generally looks as shown",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "On the left: Kanbas Navigation sidebar",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - On the left: Kanbas Navigation sidebar",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "On the right: Dashboard or Courses",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - On the right: Dashboard or Courses",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "On the right: Fills rest of screen",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - On the right: Fills rest of screen",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Course Navigation",
+      "subsection": "Links: Home, Module, Piazza, Zoom, Assignments, Quizzes, Grades",
+      "detail": "",
+      "originalText": "Kambaz - Course Navigation - Links: Home, Module, Piazza, Zoom, Assignments, Quizzes, Grades",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Course Navigation",
+      "subsection": "Background: white",
+      "detail": "",
+      "originalText": "Kambaz - Course Navigation - Background: white",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Course Navigation",
+      "subsection": "Link text: red",
+      "detail": "",
+      "originalText": "Kambaz - Course Navigation - Link text: red",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Course Navigation",
+      "subsection": "Active link: black left border and text",
+      "detail": "",
+      "originalText": "Kambaz - Course Navigation - Active link: black left border and text",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Course Navigation",
+      "subsection": "Active link: Home",
+      "detail": "",
+      "originalText": "Kambaz - Course Navigation - Active link: Home",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Course Navigation",
+      "subsection": "Generally looks as shown",
+      "detail": "",
+      "originalText": "Kambaz - Course Navigation - Generally looks as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Buttons: Collapse All, View Progress, Module",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Buttons: Collapse All, View Progress, Module",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Black on grey: Collapse All, View Progress",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Black on grey: Collapse All, View Progress",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "White on red: + Module",
+      "detail": "",
+      "originalText": "Kambaz - Modules - White on red: + Module",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Publish all: drop down with 4 options as shown and icon",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Publish all: drop down with 4 options as shown and icon",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Each option has text and icons as shown",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Each option has text and icons as shown",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Widest shows sidebars on the left and modules on the right",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Widest shows sidebars on the left and modules on the right",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Narrowest hides left sidebars",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Narrowest hides left sidebars",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Module Titles: grey background, icon to left of title, controls on the right",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Module Titles: grey background, icon to left of title, controls on the right",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "At least 2 modules",
+      "detail": "",
+      "originalText": "Kambaz - Modules - At least 2 modules",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Lessons: white background, green border on left, icon to left of title, controls on the right",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Lessons: white background, green border on left, icon to left of title, controls on the right",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "At least 2 lessons",
+      "detail": "",
+      "originalText": "Kambaz - Modules - At least 2 lessons",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Generally looks as shown",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Generally looks as shown",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Home",
+      "subsection": "Course Status on 4th column",
+      "detail": "",
+      "originalText": "Kambaz - Home - Course Status on 4th column",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Home",
+      "subsection": "Modules in 3rd column",
+      "detail": "",
+      "originalText": "Kambaz - Home - Modules in 3rd column",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Home",
+      "subsection": "Widest shows 4 columns",
+      "detail": "",
+      "originalText": "Kambaz - Home - Widest shows 4 columns",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Home",
+      "subsection": "As narrows, Course Status hides",
+      "detail": "",
+      "originalText": "Kambaz - Home - As narrows, Course Status hides",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Home",
+      "subsection": "Narrowest hides left sidebars",
+      "detail": "",
+      "originalText": "Kambaz - Home - Narrowest hides left sidebars",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Home",
+      "subsection": "Generally looks as shown",
+      "detail": "",
+      "originalText": "Kambaz - Home - Generally looks as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "People",
+      "subsection": "Clicking People link displays People Screen",
+      "detail": "",
+      "originalText": "Kambaz - People - Clicking People link displays People Screen",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "People",
+      "subsection": "Renders as shown",
+      "detail": "",
+      "originalText": "Kambaz - People - Renders as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "People",
+      "subsection": "At least 3 users",
+      "detail": "",
+      "originalText": "Kambaz - People - At least 3 users",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "Buttons must be floated to the right as shown",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - Buttons must be floated to the right as shown",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "The Search for Assignment text field must render as shown including the placeholder text, the magnifying glass, and justified to the left.",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - The Search for Assignment text field must render as shown including the placeholder text, the magnifying glass, and justified to the left.",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "Use React Icons similar to the ones shown",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - Use React Icons similar to the ones shown",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "The Group and Assignment buttons must be justified to the right, in the color shown, and plus icons. Use the same colors used in the Modules and Home Screen",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - The Group and Assignment buttons must be justified to the right, in the color shown, and plus icons. Use the same colors used in the Modules and Home Screen",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "White spaces around and between content must be rendered with Bootstrap's margin and padding classes",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - White spaces around and between content must be rendered with Bootstrap's margin and padding classes",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "The border to the left of the line items must be rendered green as shown",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - The border to the left of the line items must be rendered green as shown",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "The titles of the assignments, A1, A2, etc, must be rendered as shown",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - The titles of the assignments, A1, A2, etc, must be rendered as shown",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "The subtext under the titles such as the due dates, start times, and points, must render as shown, but the dates and times can be different",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - The subtext under the titles such as the due dates, start times, and points, must render as shown, but the dates and times can be different",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "Generally looks as shown",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - Generally looks as shown",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments Editor",
+      "subsection": "The Assignments link does not need to be rendered as selected in the Course Navigation sidebar as shown",
+      "detail": "",
+      "originalText": "Kambaz - Assignments Editor - The Assignments link does not need to be rendered as selected in the Course Navigation sidebar as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments Editor",
+      "subsection": "The Breadcrumb at the top, after the course name does not need to be styled. It can be just the course name",
+      "detail": "",
+      "originalText": "Kambaz - Assignments Editor - The Breadcrumb at the top, after the course name does not need to be styled. It can be just the course name",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments Editor",
+      "subsection": "All input, textarea, and select form elements must be styled with Bootstrap form-control class",
+      "detail": "",
+      "originalText": "Kambaz - Assignments Editor - All input, textarea, and select form elements must be styled with Bootstrap form-control class",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments Editor",
+      "subsection": "The input fields Points, Assignment Group, Display Grade as, Submission Type, and Assign, must appear on the top left of their related fields",
+      "detail": "",
+      "originalText": "Kambaz - Assignments Editor - The input fields Points, Assignment Group, Display Grade as, Submission Type, and Assign, must appear on the top left of their related fields",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments Editor",
+      "subsection": "Use Bootstrap flex or grid classes such as row and col, must be used to implement the rows and columns that separate the form labels and their related fields and sections",
+      "detail": "",
+      "originalText": "Kambaz - Assignments Editor - Use Bootstrap flex or grid classes such as row and col, must be used to implement the rows and columns that separate the form labels and their related fields and sections",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments Editor",
+      "subsection": "White spaces around and between content must be implemented with Bootstrap margin and padding classes",
+      "detail": "",
+      "originalText": "Kambaz - Assignments Editor - White spaces around and between content must be implemented with Bootstrap margin and padding classes",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments Editor",
+      "subsection": "The calendar icons next to the Due, Available from, and Until fields are not required",
+      "detail": "",
+      "originalText": "Kambaz - Assignments Editor - The calendar icons next to the Due, Available from, and Until fields are not required",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments Editor",
+      "subsection": "The date format of the Due, Available from, and Until fields is not required. Dates can render as MM/DD/YYYY",
+      "detail": "",
+      "originalText": "Kambaz - Assignments Editor - The date format of the Due, Available from, and Until fields is not required. Dates can render as MM/DD/YYYY",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments Editor",
+      "subsection": "Generally looks as shown",
+      "detail": "",
+      "originalText": "Kambaz - Assignments Editor - Generally looks as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Accounts",
+      "subsection": "Account Sidebar styled as shown",
+      "detail": "",
+      "originalText": "Kambaz - Accounts - Account Sidebar styled as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Accounts",
+      "subsection": "Signin screen styled as shown",
+      "detail": "",
+      "originalText": "Kambaz - Accounts - Signin screen styled as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Accounts",
+      "subsection": "Signup screen styled as shown",
+      "detail": "",
+      "originalText": "Kambaz - Accounts - Signup screen styled as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Accounts",
+      "subsection": "Profile screen styled as shown",
+      "detail": "",
+      "originalText": "Kambaz - Accounts - Profile screen styled as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Accounts",
+      "subsection": "Clicking Signin in Signin screen navigates to Profile or Dashboard",
+      "detail": "",
+      "originalText": "Kambaz - Accounts - Clicking Signin in Signin screen navigates to Profile or Dashboard",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Accounts",
+      "subsection": "Clicking Signup in Signup screen navigates to Profile or Dashboard",
+      "detail": "",
+      "originalText": "Kambaz - Accounts - Clicking Signup in Signup screen navigates to Profile or Dashboard",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Accounts",
+      "subsection": "Clicking on Account, Signin, Signup, and Profile in sidebars navigate as expected",
+      "detail": "",
+      "originalText": "Kambaz - Accounts - Clicking on Account, Signin, Signup, and Profile in sidebars navigate as expected",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    }
+  ]
+}

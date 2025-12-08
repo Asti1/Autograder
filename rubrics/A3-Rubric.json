@@ -1,0 +1,649 @@
+{
+  "assignmentNumber": 3,
+  "metadata": {
+    "totalPoints": "0BestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBest",
+    "sections": [
+      "General",
+      "Kambaz - Data Driven Kambaz Navigation",
+      "Kambaz - Data Driven Dashboard Screen",
+      "Kambaz - Data Driven Course Screen",
+      "Kambaz - Data Driven Course Navigation",
+      "Kambaz - Data Driven Modules Screen",
+      "Kambaz - Implementing the Home Screen with React.js",
+      "Kambaz - Data Driven Assignments Screen",
+      "Kambaz - Data Driven Assignment Editor Screen",
+      "Kambaz - Data Driven People Screen"
+    ]
+  },
+  "criteria": [
+    {
+      "type": "general",
+      "detail": "Labs - Variable types",
+      "originalText": "Labs - Variable types",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Boolean Variables",
+      "originalText": "Labs - Boolean Variables",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - If Else",
+      "originalText": "Labs - If Else",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Ternary conditional operator",
+      "originalText": "Labs - Ternary conditional operator",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Generating conditional output",
+      "originalText": "Labs - Generating conditional output",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Welcome If Else",
+      "originalText": "Labs - Welcome If Else",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Please login Inline",
+      "originalText": "Labs - Please login Inline",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Legacy ES5 function",
+      "originalText": "Labs - Legacy ES5 function",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - ES6 arrow functions",
+      "originalText": "Labs - ES6 arrow functions",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Implied returns",
+      "originalText": "Labs - Implied returns",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Template Literals",
+      "originalText": "Labs - Template Literals",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Working with Arrays",
+      "originalText": "Labs - Working with Arrays",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Array index and length",
+      "originalText": "Labs - Array index and length",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Adding and Removing Data to/from Arrays",
+      "originalText": "Labs - Adding and Removing Data to/from Arrays",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - For Loops",
+      "originalText": "Labs - For Loops",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - The Map Function",
+      "originalText": "Labs - The Map Function",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - The Find Function",
+      "originalText": "Labs - The Find Function",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - The Find Index Function",
+      "originalText": "Labs - The Find Index Function",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - The Filter Function",
+      "originalText": "Labs - The Filter Function",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - JavaScript Object Notation (JSON)",
+      "originalText": "Labs - JavaScript Object Notation (JSON)",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Implementing a simple ToDo List using React.js",
+      "originalText": "Labs - Implementing a simple ToDo List using React.js",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - TodoItem",
+      "originalText": "Labs - TodoItem",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - TodoList",
+      "originalText": "Labs - TodoList",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - The Spread Operator",
+      "originalText": "Labs - The Spread Operator",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Destructing",
+      "originalText": "Labs - Destructing",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Function Destructing",
+      "originalText": "Labs - Function Destructing",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Working with HTML classes",
+      "originalText": "Labs - Working with HTML classes",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Red Dangerous background",
+      "originalText": "Labs - Red Dangerous background",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Blue Dynamic blue background",
+      "originalText": "Labs - Blue Dynamic blue background",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Working with the HTML Style attribute",
+      "originalText": "Labs - Working with the HTML Style attribute",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Styles yellow, red, blue backgrounds",
+      "originalText": "Labs - Styles yellow, red, blue backgrounds",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Parameterizing Components",
+      "originalText": "Labs - Parameterizing Components",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Child Components",
+      "originalText": "Labs - Child Components",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Working with Location",
+      "originalText": "Labs - Working with Location",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Navigation highlights current page",
+      "originalText": "Labs - Navigation highlights current page",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Encoding Path Parameters",
+      "originalText": "Labs - Encoding Path Parameters",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - 1 + 2 displays 3",
+      "originalText": "Labs - 1 + 2 displays 3",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - 3 + 4 displays 7",
+      "originalText": "Labs - 3 + 4 displays 7",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "kambaz",
+      "section": "Data Driven Kambaz Navigation",
+      "subsection": "",
+      "detail": "",
+      "originalText": "Kambaz - Data Driven Kambaz Navigation",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Data Driven Dashboard Screen",
+      "subsection": "",
+      "detail": "",
+      "originalText": "Kambaz - Data Driven Dashboard Screen",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Data Driven Course Screen",
+      "subsection": "",
+      "detail": "",
+      "originalText": "Kambaz - Data Driven Course Screen",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Data Driven Course Navigation",
+      "subsection": "",
+      "detail": "",
+      "originalText": "Kambaz - Data Driven Course Navigation",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Data Driven Modules Screen",
+      "subsection": "",
+      "detail": "",
+      "originalText": "Kambaz - Data Driven Modules Screen",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Implementing the Home Screen with React.js",
+      "subsection": "",
+      "detail": "",
+      "originalText": "Kambaz - Implementing the Home Screen with React.js",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Data Driven Assignments Screen",
+      "subsection": "",
+      "detail": "",
+      "originalText": "Kambaz - Data Driven Assignments Screen",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Data Driven Assignment Editor Screen",
+      "subsection": "",
+      "detail": "",
+      "originalText": "Kambaz - Data Driven Assignment Editor Screen",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Data Driven People Screen",
+      "subsection": "",
+      "detail": "",
+      "originalText": "Kambaz - Data Driven People Screen",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    }
+  ]
+}

@@ -1,0 +1,768 @@
+{
+  "assignmentNumber": 5,
+  "metadata": {
+    "totalPoints": "0BestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBest",
+    "sections": [
+      "General",
+      "Kambaz - Account",
+      "Kambaz - Session",
+      "Kambaz - Courses",
+      "Kambaz - Modules",
+      "Kambaz - Assignments",
+      "Kambaz - Enrollments",
+      "Kambaz - Works Remotely"
+    ]
+  },
+  "criteria": [
+    {
+      "type": "general",
+      "detail": "Labs - Path Parameters - Subtract 34 - 23",
+      "originalText": "Labs - Path Parameters - Subtract 34 - 23",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Query Parameters - Add 34 + 23",
+      "originalText": "Labs - Query Parameters - Add 34 + 23",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Query Parameters - Subtract 34 - 23",
+      "originalText": "Labs - Query Parameters - Subtract 34 - 23",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Path Parameters - multiply",
+      "originalText": "Labs - Path Parameters - multiply",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Path Parameters - divide",
+      "originalText": "Labs - Path Parameters - divide",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Path Parameters - multiply",
+      "originalText": "Labs - Path Parameters - multiply",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Path Parameters - divide",
+      "originalText": "Labs - Path Parameters - divide",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Working with Objects - Get Assignment",
+      "originalText": "Labs - Working with Objects - Get Assignment",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Working with Objects - Get Title",
+      "originalText": "Labs - Working with Objects - Get Title",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Working with Objects - Update Title",
+      "originalText": "Labs - Working with Objects - Update Title",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Working with Objects - Get Module",
+      "originalText": "Labs - Working with Objects - Get Module",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Working with Objects - Get Module Name",
+      "originalText": "Labs - Working with Objects - Get Module Name",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Working with Arrays - Get Todos",
+      "originalText": "Labs - Working with Arrays - Get Todos",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Working with Arrays - Get Todo By Id",
+      "originalText": "Labs - Working with Arrays - Get Todo By Id",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Working with Arrays - Get Completed Todos",
+      "originalText": "Labs - Working with Arrays - Get Completed Todos",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Working with Arrays - Create Todo",
+      "originalText": "Labs - Working with Arrays - Create Todo",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Working with Arrays - Delete Todo with Id  = 1",
+      "originalText": "Labs - Working with Arrays - Delete Todo with Id  = 1",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Working with Arrays - Update Todo To NodeJS Assignment",
+      "originalText": "Labs - Working with Arrays - Update Todo To NodeJS Assignment",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Asynch - Fetching Welcome",
+      "originalText": "Labs - Asynch - Fetching Welcome",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Asynch - Fetching Welcome",
+      "originalText": "Labs - Asynch - Fetching Welcome",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Asynch - Can edit the assignment title",
+      "originalText": "Labs - Asynch - Can edit the assignment title",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Asynch - Renders todos as shown",
+      "originalText": "Labs - Asynch - Renders todos as shown",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Asynch - Can delete todo",
+      "originalText": "Labs - Asynch - Can delete todo",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Asynch - Can create new todo",
+      "originalText": "Labs - Asynch - Can create new todo",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - POST - Post Todo button creates a new todo",
+      "originalText": "Labs - POST - Post Todo button creates a new todo",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - DELETE - Delete button removes todo item",
+      "originalText": "Labs - DELETE - Delete button removes todo item",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - PUT - Update Todo button updates the todo fiels",
+      "originalText": "Labs - PUT - Update Todo button updates the todo fiels",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Errors - Unable to Delete Todo with ID: 1234",
+      "originalText": "Labs - Errors - Unable to Delete Todo with ID: 1234",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Labs - Work Remotely",
+      "originalText": "Labs - Work Remotely",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Can signin with existing account, e.g., iron_man/stark123",
+      "detail": "",
+      "originalText": "Kambaz - Account - Can signin with existing account, e.g., iron_man/stark123",
+      "route": "/Account/Can signin with existing account, e.g., iron_man/stark123",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Can create new account",
+      "detail": "",
+      "originalText": "Kambaz - Account - Can create new account",
+      "route": "/Account/Can create new account",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Can login with new account",
+      "detail": "",
+      "originalText": "Kambaz - Account - Can login with new account",
+      "route": "/Account/Can login with new account",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Can update profile",
+      "detail": "",
+      "originalText": "Kambaz - Account - Can update profile",
+      "route": "/Account/Can update profile",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Logout, login again, updates persist",
+      "detail": "",
+      "originalText": "Kambaz - Account - Logout, login again, updates persist",
+      "route": "/Account/Logout, login again, updates persist",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Reload browser, still logged in",
+      "detail": "",
+      "originalText": "Kambaz - Account - Reload browser, still logged in",
+      "route": "/Account/Reload browser, still logged in",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "general",
+      "detail": "Can signout",
+      "originalText": "Can signout",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "kambaz",
+      "section": "Session",
+      "subsection": "Can login from 2 different browsers",
+      "detail": "",
+      "originalText": "Kambaz - Session - Can login from 2 different browsers",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Courses",
+      "subsection": "Dashboard retrieves and renders courses from server",
+      "detail": "",
+      "originalText": "Kambaz - Courses - Dashboard retrieves and renders courses from server",
+      "route": "/Courses/:id/Dashboard retrieves and renders courses from server",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Courses",
+      "subsection": "Add button creates new course in server. Refresh to confirm",
+      "detail": "",
+      "originalText": "Kambaz - Courses - Add button creates new course in server. Refresh to confirm",
+      "route": "/Courses/:id/Add button creates new course in server. Refresh to confirm",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Courses",
+      "subsection": "Delete button removes course from server. Refresh to confirm",
+      "detail": "",
+      "originalText": "Kambaz - Courses - Delete button removes course from server. Refresh to confirm",
+      "route": "/Courses/:id/Delete button removes course from server. Refresh to confirm",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Courses",
+      "subsection": "Confirm that clicking the Update button actually updates the course in the Dashboard",
+      "detail": "",
+      "originalText": "Kambaz - Courses - Confirm that clicking the Update button actually updates the course in the Dashboard",
+      "route": "/Courses/:id/Confirm that clicking the Update button actually updates the course in the Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Confirm that navigating to a course populates the corresponding modules",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Confirm that navigating to a course populates the corresponding modules",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Confirm that you can create new modules for the current course",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Confirm that you can create new modules for the current course",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Confirm you can remove the module from the currently selected course",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Confirm you can remove the module from the currently selected course",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Confirm you can update the module and that the changes persist if you refresh the user interface",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Confirm you can update the module and that the changes persist if you refresh the user interface",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "Create assignments for selected course",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - Create assignments for selected course",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "Retrieve assignments for selected course",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - Retrieve assignments for selected course",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "Update selected assignment",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - Update selected assignment",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "Delete assignment",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - Delete assignment",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Enrollments",
+      "subsection": "Can enroll in a course",
+      "detail": "",
+      "originalText": "Kambaz - Enrollments - Can enroll in a course",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Enrollments",
+      "subsection": "Can unenroll from a course",
+      "detail": "",
+      "originalText": "Kambaz - Enrollments - Can unenroll from a course",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Enrollments",
+      "subsection": "Dashboard displays enrolled courses for current user",
+      "detail": "",
+      "originalText": "Kambaz - Enrollments - Dashboard displays enrolled courses for current user",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Enrollments",
+      "subsection": "Enrollments persist as long as server is running",
+      "detail": "",
+      "originalText": "Kambaz - Enrollments - Enrollments persist as long as server is running",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Works Remotely",
+      "subsection": "",
+      "detail": "",
+      "originalText": "Kambaz - Works Remotely",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    }
+  ]
+}

@@ -1,0 +1,1556 @@
+{
+  "assignmentNumber": 1,
+  "metadata": {
+    "totalPoints": "0BestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBestBest",
+    "sections": [
+      "General",
+      "Labs",
+      "Kambaz - Account",
+      "Kambaz - Dashboard",
+      "Kambaz - Navigation Sidebar",
+      "Kambaz - Courses",
+      "Kambaz - Modules",
+      "Kambaz - Assignments",
+      "Kambaz - Assignment Editor"
+    ]
+  },
+  "criteria": [
+    {
+      "type": "general",
+      "detail": "Can easily identify whose assignment this is",
+      "originalText": "Can easily identify whose assignment this is",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Link to GitHub",
+      "originalText": "Link to GitHub",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "general",
+      "detail": "Can navigate to Labs easily",
+      "originalText": "Can navigate to Labs easily",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "general"
+    },
+    {
+      "type": "lab",
+      "category": "Heading Tags",
+      "detail": "",
+      "originalText": "Lab - Heading Tags",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "heading"
+    },
+    {
+      "type": "lab",
+      "category": "Paragraph Tag",
+      "detail": "",
+      "originalText": "Lab - Paragraph Tag",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "paragraph"
+    },
+    {
+      "type": "lab",
+      "category": "Lists",
+      "detail": "Ordered List Elements",
+      "originalText": "Lab - Lists - Ordered List Elements",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "ordered_list"
+    },
+    {
+      "type": "lab",
+      "category": "Lists",
+      "detail": "My favorite recipe",
+      "originalText": "Lab - Lists - My favorite recipe",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "list_generic"
+    },
+    {
+      "type": "lab",
+      "category": "Lists",
+      "detail": "Unordered List Elements",
+      "originalText": "Lab - Lists - Unordered List Elements",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "ordered_list"
+    },
+    {
+      "type": "lab",
+      "category": "Lists",
+      "detail": "Your favorite books",
+      "originalText": "Lab - Lists - Your favorite books",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "list_generic"
+    },
+    {
+      "type": "lab",
+      "category": "Table Tags Q3, Q4, through Q10. Make up your own dates and scores.",
+      "detail": "",
+      "originalText": "Lab - Table Tags Q3, Q4, through Q10. Make up your own dates and scores.",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "table_elements"
+    },
+    {
+      "type": "lab",
+      "category": "Images",
+      "detail": "Starship image",
+      "originalText": "Lab - Images - Starship image",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "image"
+    },
+    {
+      "type": "lab",
+      "category": "Images",
+      "detail": "Teslabot image",
+      "originalText": "Lab - Images - Teslabot image",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "image"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "Username",
+      "originalText": "Lab - Forms - Username",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_input"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "Password",
+      "originalText": "Lab - Forms - Password",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_input"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "First Name",
+      "originalText": "Lab - Forms - First Name",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_generic"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "Last name",
+      "originalText": "Lab - Forms - Last name",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_generic"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "Textareas",
+      "originalText": "Lab - Forms - Textareas",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_textarea"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "Clicking button pops up alert",
+      "originalText": "Lab - Forms - Clicking button pops up alert",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_button_alert"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "File upload button",
+      "originalText": "Lab - Forms - File upload button",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_file"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "Comedy radio",
+      "originalText": "Lab - Forms - Comedy radio",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_radio"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "Drama radio",
+      "originalText": "Lab - Forms - Drama radio",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_radio"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "SciFi radio",
+      "originalText": "Lab - Forms - SciFi radio",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_radio"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "Fantasy radio",
+      "originalText": "Lab - Forms - Fantasy radio",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_radio"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "Comedy checkbox",
+      "originalText": "Lab - Forms - Comedy checkbox",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_checkbox"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "Drama checkbox",
+      "originalText": "Lab - Forms - Drama checkbox",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_checkbox"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "SciFi checkbox",
+      "originalText": "Lab - Forms - SciFi checkbox",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_checkbox"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "Fantasy checkbox",
+      "originalText": "Lab - Forms - Fantasy checkbox",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_checkbox"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "Select one option dropdown",
+      "originalText": "Lab - Forms - Select one option dropdown",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_select"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "Select many options",
+      "originalText": "Lab - Forms - Select many options",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_select"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "Email",
+      "originalText": "Lab - Forms - Email",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_generic"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "Salary",
+      "originalText": "Lab - Forms - Salary",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_generic"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "Rating slider",
+      "originalText": "Lab - Forms - Rating slider",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_generic"
+    },
+    {
+      "type": "lab",
+      "category": "Forms",
+      "detail": "DOB date picker",
+      "originalText": "Lab - Forms - DOB date picker",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "form_generic"
+    },
+    {
+      "type": "lab",
+      "category": "Anchor Tag",
+      "detail": "",
+      "originalText": "Lab - Anchor Tag",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "anchor"
+    },
+    {
+      "type": "lab",
+      "category": "Implementing Navigation in Single Page Applications",
+      "detail": "",
+      "originalText": "Lab - Implementing Navigation in Single Page Applications",
+      "route": "/Labs/Lab1",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Signin",
+      "detail": "Username field of type text",
+      "originalText": "Kambaz - Account - Signin - Username field of type text",
+      "route": "/Account/Signin",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "input_type"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Signin",
+      "detail": "Password field of type password",
+      "originalText": "Kambaz - Account - Signin - Password field of type password",
+      "route": "/Account/Signin",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "input_type"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Signin",
+      "detail": "Some default values, not necessarily the ones provided",
+      "originalText": "Kambaz - Account - Signin - Some default values, not necessarily the ones provided",
+      "route": "/Account/Signin",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "default_value"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Signin",
+      "detail": "Clicking Signin Link or Button navigates to Profile or Dashboard",
+      "originalText": "Kambaz - Account - Signin - Clicking Signin Link or Button navigates to Profile or Dashboard",
+      "route": "/Account/Signin",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "navigation_click"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Signin",
+      "detail": "Clicking Signup Link or Button navigates to Signup Screen",
+      "originalText": "Kambaz - Account - Signin - Clicking Signup Link or Button navigates to Signup Screen",
+      "route": "/Account/Signin",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "navigation_click"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Profile",
+      "detail": "Username, first, and last name fields of type text",
+      "originalText": "Kambaz - Account - Profile - Username, first, and last name fields of type text",
+      "route": "/Account/Profile",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Profile",
+      "detail": "Password field of type password",
+      "originalText": "Kambaz - Account - Profile - Password field of type password",
+      "route": "/Account/Profile",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "input_type"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Profile",
+      "detail": "Date of birth field of type date",
+      "originalText": "Kambaz - Account - Profile - Date of birth field of type date",
+      "route": "/Account/Profile",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "input_type"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Profile",
+      "detail": "Email input field of type email",
+      "originalText": "Kambaz - Account - Profile - Email input field of type email",
+      "route": "/Account/Profile",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "input_type"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Profile",
+      "detail": "Role dropdown with 4 distinct roles",
+      "originalText": "Kambaz - Account - Profile - Role dropdown with 4 distinct roles",
+      "route": "/Account/Profile",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "dropdown"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Profile",
+      "detail": "Some default values, not necessarily the ones provided",
+      "originalText": "Kambaz - Account - Profile - Some default values, not necessarily the ones provided",
+      "route": "/Account/Profile",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "default_value"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Profile",
+      "detail": "Clicking Signout Link or Button navigates to Signin Screen",
+      "originalText": "Kambaz - Account - Profile - Clicking Signout Link or Button navigates to Signin Screen",
+      "route": "/Account/Profile",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "navigation_click"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Signup",
+      "detail": "Username field of type text",
+      "originalText": "Kambaz - Account - Signup - Username field of type text",
+      "route": "/Account/Signup",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "input_type"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Signup",
+      "detail": "Password field of type password",
+      "originalText": "Kambaz - Account - Signup - Password field of type password",
+      "route": "/Account/Signup",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "input_type"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Signup",
+      "detail": "Verify Password field of type password",
+      "originalText": "Kambaz - Account - Signup - Verify Password field of type password",
+      "route": "/Account/Signup",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "input_type"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Signup",
+      "detail": "Some default values, not necessarily the ones provided",
+      "originalText": "Kambaz - Account - Signup - Some default values, not necessarily the ones provided",
+      "route": "/Account/Signup",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "default_value"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Signup",
+      "detail": "Clicking Signin Link or Button navigates to Signin Screen",
+      "originalText": "Kambaz - Account - Signup - Clicking Signin Link or Button navigates to Signin Screen",
+      "route": "/Account/Signup",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "navigation_click"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Signup",
+      "detail": "Clicking Signup Link or Button navigates to Profile Screen",
+      "originalText": "Kambaz - Account - Signup - Clicking Signup Link or Button navigates to Profile Screen",
+      "route": "/Account/Signup",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "navigation_click"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Navigation",
+      "detail": "Account Navigation Links sidebar appears on left of Account screens",
+      "originalText": "Kambaz - Account - Navigation - Account Navigation Links sidebar appears on left of Account screens",
+      "route": "/Account/Signin",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "link_exists"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Navigation",
+      "detail": "Clicking on Signin, Signup, and Profile navigates as expected",
+      "originalText": "Kambaz - Account - Navigation - Clicking on Signin, Signup, and Profile navigates as expected",
+      "route": "/Account/Signin",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "navigation_click"
+    },
+    {
+      "type": "kambaz",
+      "section": "Account",
+      "subsection": "Navigation",
+      "detail": "Signin Screen is default when navigating to Kanbas",
+      "originalText": "Kambaz - Account - Navigation - Signin Screen is default when navigating to Kanbas",
+      "route": "/Account/Signin",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "Dashboard title",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - Dashboard title",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "Published Courses subtitle",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - Published Courses subtitle",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "List of courses",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - List of courses",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "The course (3+)",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - The course (3+)",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "The link to the course (3+)",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - The link to the course (3+)",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Dashboard",
+      "subsection": "Course Title (3+)",
+      "detail": "",
+      "originalText": "Kambaz - Dashboard - Course Title (3+)",
+      "route": "/Dashboard",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Navigation Sidebar",
+      "subsection": "Link to NEU",
+      "detail": "",
+      "originalText": "Kambaz - Navigation Sidebar - Link to NEU",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Navigation Sidebar",
+      "subsection": "Link to Account",
+      "detail": "",
+      "originalText": "Kambaz - Navigation Sidebar - Link to Account",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Navigation Sidebar",
+      "subsection": "Link to Dashboard",
+      "detail": "",
+      "originalText": "Kambaz - Navigation Sidebar - Link to Dashboard",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Navigation Sidebar",
+      "subsection": "Link to Course",
+      "detail": "",
+      "originalText": "Kambaz - Navigation Sidebar - Link to Course",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Navigation Sidebar",
+      "subsection": "Link to Calendar",
+      "detail": "",
+      "originalText": "Kambaz - Navigation Sidebar - Link to Calendar",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Navigation Sidebar",
+      "subsection": "Inbox link",
+      "detail": "",
+      "originalText": "Kambaz - Navigation Sidebar - Inbox link",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Navigation Sidebar",
+      "subsection": "Labs link",
+      "detail": "",
+      "originalText": "Kambaz - Navigation Sidebar - Labs link",
+      "route": "/",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Courses",
+      "subsection": "Navigation",
+      "detail": "Home link, navigates to Home",
+      "originalText": "Kambaz - Courses - Navigation - Home link, navigates to Home",
+      "route": "/Courses/:id/Home",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "link_exists"
+    },
+    {
+      "type": "kambaz",
+      "section": "Courses",
+      "subsection": "Navigation",
+      "detail": "Modules link, navigates to Modules",
+      "originalText": "Kambaz - Courses - Navigation - Modules link, navigates to Modules",
+      "route": "/Courses/:id/Home",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "link_exists"
+    },
+    {
+      "type": "kambaz",
+      "section": "Courses",
+      "subsection": "Navigation",
+      "detail": "Piazza link, displays Piazza",
+      "originalText": "Kambaz - Courses - Navigation - Piazza link, displays Piazza",
+      "route": "/Courses/:id/Home",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "link_exists"
+    },
+    {
+      "type": "kambaz",
+      "section": "Courses",
+      "subsection": "Navigation",
+      "detail": "Zoom link, displays Zoom",
+      "originalText": "Kambaz - Courses - Navigation - Zoom link, displays Zoom",
+      "route": "/Courses/:id/Home",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "link_exists"
+    },
+    {
+      "type": "kambaz",
+      "section": "Courses",
+      "subsection": "Navigation",
+      "detail": "Quizzes link, displays Quizzes",
+      "originalText": "Kambaz - Courses - Navigation - Quizzes link, displays Quizzes",
+      "route": "/Courses/:id/Home",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "link_exists"
+    },
+    {
+      "type": "kambaz",
+      "section": "Courses",
+      "subsection": "Navigation",
+      "detail": "Assignments link, navigates to Assignments",
+      "originalText": "Kambaz - Courses - Navigation - Assignments link, navigates to Assignments",
+      "route": "/Courses/:id/Home",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "link_exists"
+    },
+    {
+      "type": "kambaz",
+      "section": "Courses",
+      "subsection": "Navigation",
+      "detail": "Grades link, displays Grades",
+      "originalText": "Kambaz - Courses - Navigation - Grades link, displays Grades",
+      "route": "/Courses/:id/Home",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "link_exists"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Show Modules (2+)",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Show Modules (2+)",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Module title (2+)",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Module title (2+)",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Modules",
+      "subsection": "Show Lessons (2+)",
+      "detail": "",
+      "originalText": "Kambaz - Modules - Show Lessons (2+)",
+      "route": "/Courses/:id/Modules",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Courses",
+      "subsection": "Home",
+      "detail": "Screen",
+      "originalText": "Kambaz - Courses - Home - Screen",
+      "route": "/Courses/:id/Home",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Courses",
+      "subsection": "Home",
+      "detail": "Course Status component",
+      "originalText": "Kambaz - Courses - Home - Course Status component",
+      "route": "/Courses/:id/Home",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Courses",
+      "subsection": "Home",
+      "detail": "Buttons at the top",
+      "originalText": "Kambaz - Courses - Home - Buttons at the top",
+      "route": "/Courses/:id/Home",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Courses",
+      "subsection": "Home",
+      "detail": "At least two modules",
+      "originalText": "Kambaz - Courses - Home - At least two modules",
+      "route": "/Courses/:id/Home",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Courses",
+      "subsection": "Home",
+      "detail": "Looks somewhat similar to what wireframe",
+      "originalText": "Kambaz - Courses - Home - Looks somewhat similar to what wireframe",
+      "route": "/Courses/:id/Home",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "Can navigate here by clicking Assignments link",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - Can navigate here by clicking Assignments link",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "Can navigate to other screens",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - Can navigate to other screens",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "Input field at the top with placeholder",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - Input field at the top with placeholder",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "Buttons as shown",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - Buttons as shown",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "Dropdown as as shown",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - Dropdown as as shown",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "Headings/sections Assignments, Quizzes, Exams, Project as shown",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - Headings/sections Assignments, Quizzes, Exams, Project as shown",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignments",
+      "subsection": "Assignment links as shown",
+      "detail": "",
+      "originalText": "Kambaz - Assignments - Assignment links as shown",
+      "route": "/Courses/:id/Assignments",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignment Editor",
+      "subsection": "Assignment Name input field has some default value",
+      "detail": "",
+      "originalText": "Kambaz - Assignment Editor - Assignment Name input field has some default value",
+      "route": "/Courses/:id/Assignments/:assignmentId",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignment Editor",
+      "subsection": "Assignment Description text area has some default value",
+      "detail": "",
+      "originalText": "Kambaz - Assignment Editor - Assignment Description text area has some default value",
+      "route": "/Courses/:id/Assignments/:assignmentId",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignment Editor",
+      "subsection": "Points field is type number",
+      "detail": "",
+      "originalText": "Kambaz - Assignment Editor - Points field is type number",
+      "route": "/Courses/:id/Assignments/:assignmentId",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignment Editor",
+      "subsection": "Assignment Group dropdown",
+      "detail": "",
+      "originalText": "Kambaz - Assignment Editor - Assignment Group dropdown",
+      "route": "/Courses/:id/Assignments/:assignmentId",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignment Editor",
+      "subsection": "Display Grade dropdown",
+      "detail": "",
+      "originalText": "Kambaz - Assignment Editor - Display Grade dropdown",
+      "route": "/Courses/:id/Assignments/:assignmentId",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignment Editor",
+      "subsection": "Submission Type dropdown",
+      "detail": "",
+      "originalText": "Kambaz - Assignment Editor - Submission Type dropdown",
+      "route": "/Courses/:id/Assignments/:assignmentId",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignment Editor",
+      "subsection": "Online Entry Options checkboxes",
+      "detail": "",
+      "originalText": "Kambaz - Assignment Editor - Online Entry Options checkboxes",
+      "route": "/Courses/:id/Assignments/:assignmentId",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignment Editor",
+      "subsection": "Assign to input field has default value",
+      "detail": "",
+      "originalText": "Kambaz - Assignment Editor - Assign to input field has default value",
+      "route": "/Courses/:id/Assignments/:assignmentId",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignment Editor",
+      "subsection": "Due date input field of type date",
+      "detail": "",
+      "originalText": "Kambaz - Assignment Editor - Due date input field of type date",
+      "route": "/Courses/:id/Assignments/:assignmentId",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignment Editor",
+      "subsection": "Due date input field has some default date",
+      "detail": "",
+      "originalText": "Kambaz - Assignment Editor - Due date input field has some default date",
+      "route": "/Courses/:id/Assignments/:assignmentId",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignment Editor",
+      "subsection": "Available from date input field of type date",
+      "detail": "",
+      "originalText": "Kambaz - Assignment Editor - Available from date input field of type date",
+      "route": "/Courses/:id/Assignments/:assignmentId",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignment Editor",
+      "subsection": "Available from input field has some default date",
+      "detail": "",
+      "originalText": "Kambaz - Assignment Editor - Available from input field has some default date",
+      "route": "/Courses/:id/Assignments/:assignmentId",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignment Editor",
+      "subsection": "Until date input field of type date",
+      "detail": "",
+      "originalText": "Kambaz - Assignment Editor - Until date input field of type date",
+      "route": "/Courses/:id/Assignments/:assignmentId",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    },
+    {
+      "type": "kambaz",
+      "section": "Assignment Editor",
+      "subsection": "Until input field has some default date",
+      "detail": "",
+      "originalText": "Kambaz - Assignment Editor - Until input field has some default date",
+      "route": "/Courses/:id/Assignments/:assignmentId",
+      "points": {
+        "best": "Best",
+        "better": "Better",
+        "almost": "Almost",
+        "missing": "Missing"
+      },
+      "testType": "generic"
+    }
+  ]
+}

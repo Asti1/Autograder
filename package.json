@@ -1,0 +1,32 @@
+{
+  "name": "autograder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "parse": "node src/parser/excelParser.js",
+    "generate": "node src/generator/testGenerator.js",
+    "test": "npx playwright test",
+    "grade": "node src/runner/testRunner.js",
+    "full-grade": "npm run parse && npm run generate && npm run grade",
+    "show-report": "npx playwright show-report reports/html",
+    "view-grade": "open reports/latest.html"
+  },
+  "keywords": [
+    "grading",
+    "playwright",
+    "automation",
+    "testing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^16.4.5",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.1"
+  }
+}
