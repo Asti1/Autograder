@@ -58,7 +58,8 @@ A comprehensive autograding solution that converts Excel-based rubrics into auto
 
 ## System Architecture
 
-![[AutoGrader Architecture](TA Grading Automation-2025-12-11-002045.png)]
+![AutoGrader Architecture](TA%20Grading%20Automation-2025-12-11-002045.png)
+
 
 ## Prerequisites
 
