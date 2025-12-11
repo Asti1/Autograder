@@ -58,7 +58,7 @@ A comprehensive autograding solution that converts Excel-based rubrics into auto
 
 ## System Architecture
 
-![AutoGrader Architecture](/Users/astitva/Documents/AutoGrader/TA Grading Automation-2025-12-11-002045.png)
+![AutoGrader Architecture]([/Users/astitva/Documents/AutoGrader/TA Grading Automation-2025-12-11-002045.png](https://www.mermaidchart.com/d/4b03dfc8-9026-40fc-bc36-cf4da5bc9f34))
 
 ## Prerequisites
 
